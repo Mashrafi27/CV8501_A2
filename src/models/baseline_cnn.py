@@ -44,11 +44,11 @@ def _try_import_timm(model_name: str, pretrained: bool, num_classes: int):
     return m
 
 def create_model(model_name: str = "resnet18", num_classes: int = 7, pretrained: bool = True):
-    \"\"\"Factory that tries torchvision first, then timm.
+    """Factory that tries torchvision first, then timm.
 
     Examples (torchvision): resnet18, vit_b_16
     Examples (timm):        vit_base_patch16_224, resnet50, convnext_tiny, ...
-    \"\"\"
+    """
     try:
         return _try_import_torchvision(model_name, pretrained, num_classes)
     except Exception:

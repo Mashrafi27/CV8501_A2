@@ -156,7 +156,7 @@ def main():
 
         # append to CSV log
         log_csv = os.path.join(cfg.out_dir, "val_log.csv")
-        import csv, os
+        import csv
         exists = os.path.exists(log_csv)
         with open(log_csv, "a", newline="") as f:
             writer = csv.DictWriter(f, fieldnames=list(log_row.keys()))
