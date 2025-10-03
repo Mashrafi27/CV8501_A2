@@ -1,4 +1,6 @@
 data/
 *.zip
 runs/
+*.sh
+fine_tune_split*
 *.out

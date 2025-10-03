@@ -1,0 +1,1504 @@
+question_id,image,gt,pred,raw_text
+0,ISIC_0031067.jpg,nv,mel,The lesion type in the image is melanoma.
+1,ISIC_0030818.jpg,mel,mel,The lesion type in the image is melanoma.
+2,ISIC_0032485.jpg,nv,mel,The lesion type in the image is melanoma.
+3,ISIC_0033520.jpg,mel,mel,The lesion type in the image is melanoma.
+4,ISIC_0031922.jpg,akiec,mel,The lesion type in the image is melanoma.
+5,ISIC_0033769.jpg,nv,mel,The lesion type in the image is melanoma.
+6,ISIC_0026469.jpg,nv,mel,The lesion type in the image is melanoma.
+7,ISIC_0029471.jpg,nv,mel,The lesion type in the image is melanoma.
+8,ISIC_0028833.jpg,nv,mel,The lesion type in the image is melanoma.
+9,ISIC_0025087.jpg,nv,mel,The lesion type in the image is melanoma.
+10,ISIC_0027463.jpg,bkl,mel,The lesion type in the image is melanoma.
+11,ISIC_0030774.jpg,nv,mel,The lesion type in the image is melanoma.
+12,ISIC_0030783.jpg,bkl,mel,The lesion type in the image is melanoma.
+13,ISIC_0030001.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+14,ISIC_0034176.jpg,nv,mel,The lesion type in the image is melanoma.
+15,ISIC_0025051.jpg,nv,mel,The lesion type in the image is melanoma.
+16,ISIC_0027922.jpg,nv,mel,The lesion type in the image is melanoma.
+17,ISIC_0033972.jpg,nv,mel,The lesion type in the image is melanoma.
+18,ISIC_0028863.jpg,nv,mel,The lesion type in the image is melanoma.
+19,ISIC_0030933.jpg,nv,mel,The lesion type in the image is melanoma.
+20,ISIC_0025477.jpg,nv,mel,The lesion type in the image is melanoma.
+21,ISIC_0033638.jpg,mel,mel,The lesion type in the image is melanoma.
+22,ISIC_0030137.jpg,bkl,mel,The lesion type in the image is melanoma.
+23,ISIC_0033356.jpg,nv,mel,The lesion type in the image is melanoma.
+24,ISIC_0027791.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+25,ISIC_0029702.jpg,nv,mel,The lesion type in the image is melanoma.
+26,ISIC_0027224.jpg,nv,mel,The lesion type in the image is melanoma.
+27,ISIC_0033281.jpg,nv,mel,The lesion type in the image is melanoma.
+28,ISIC_0032049.jpg,nv,mel,The lesion type in the image is melanoma.
+29,ISIC_0033932.jpg,nv,mel,The lesion type in the image is melanoma.
+30,ISIC_0033845.jpg,nv,mel,The lesion type in the image is melanoma.
+31,ISIC_0032271.jpg,bkl,mel,The lesion type in the image is melanoma.
+32,ISIC_0025036.jpg,nv,mel,The lesion type in the image is melanoma.
+33,ISIC_0032837.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+34,ISIC_0026276.jpg,bkl,mel,The lesion type in the image is melanoma.
+35,ISIC_0032145.jpg,nv,mel,The lesion type in the image is melanoma.
+36,ISIC_0024578.jpg,nv,mel,The lesion type in the image is melanoma.
+37,ISIC_0025570.jpg,nv,mel,The lesion type in the image is melanoma.
+38,ISIC_0025394.jpg,mel,mel,The lesion type in the image is melanoma.
+39,ISIC_0026836.jpg,nv,mel,The lesion type in the image is melanoma.
+40,ISIC_0030387.jpg,akiec,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+41,ISIC_0025507.jpg,bkl,mel,The lesion type in the image is melanoma.
+42,ISIC_0026432.jpg,nv,mel,The lesion type in the image is melanoma.
+43,ISIC_0030672.jpg,nv,mel,The lesion type in the image is melanoma.
+44,ISIC_0028085.jpg,bcc,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+45,ISIC_0030485.jpg,nv,mel,The lesion type in the image is melanoma.
+46,ISIC_0027543.jpg,nv,mel,The lesion type in the image is melanoma.
+47,ISIC_0031195.jpg,nv,mel,The lesion type in the image is a melanoma.
+48,ISIC_0028743.jpg,nv,mel,The lesion type in the image is melanoma.
+49,ISIC_0032884.jpg,nv,mel,The lesion type in the image is melanoma.
+50,ISIC_0033619.jpg,mel,mel,The lesion type in the image is melanoma.
+51,ISIC_0027379.jpg,nv,mel,The lesion type in the image is melanoma.
+52,ISIC_0026805.jpg,nv,mel,The lesion type in the image is melanoma.
+53,ISIC_0027744.jpg,bcc,mel,The lesion type in the image is melanoma.
+54,ISIC_0025771.jpg,df,mel,The lesion type in the image is melanoma.
+55,ISIC_0031172.jpg,nv,mel,The lesion type in the image is melanoma.
+56,ISIC_0032857.jpg,bcc,mel,The lesion type in the image is melanoma.
+57,ISIC_0024775.jpg,nv,mel,The lesion type in the image is melanoma.
+58,ISIC_0033395.jpg,nv,mel,The lesion type in the image is melanoma.
+59,ISIC_0032246.jpg,bcc,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+60,ISIC_0030125.jpg,nv,mel,The lesion type in the image is melanoma.
+61,ISIC_0025611.jpg,mel,mel,The lesion type in the image is melanoma.
+62,ISIC_0027789.jpg,nv,mel,The lesion type in the image is melanoma.
+63,ISIC_0031796.jpg,nv,mel,The lesion type in the image is melanoma.
+64,ISIC_0032435.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+65,ISIC_0025717.jpg,nv,mel,The lesion type in the image is melanoma.
+66,ISIC_0024665.jpg,bcc,mel,The lesion type in the image is melanoma.
+67,ISIC_0025595.jpg,nv,mel,The lesion type in the image is melanoma.
+68,ISIC_0027858.jpg,bcc,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+69,ISIC_0029397.jpg,mel,mel,The lesion type in the image is melanoma.
+70,ISIC_0026779.jpg,nv,mel,The lesion type in the image is melanoma.
+71,ISIC_0032394.jpg,nv,mel,The lesion type in the image is melanoma.
+72,ISIC_0032788.jpg,nv,mel,The lesion type in the image is melanoma.
+73,ISIC_0028921.jpg,nv,mel,The lesion type in the image is melanoma.
+74,ISIC_0029996.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+75,ISIC_0028806.jpg,nv,mel,The lesion type in the image is melanoma.
+76,ISIC_0031667.jpg,nv,mel,The lesion type in the image is melanoma.
+77,ISIC_0028028.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+78,ISIC_0027786.jpg,bcc,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+79,ISIC_0030633.jpg,nv,mel,The lesion type in the image is melanoma.
+80,ISIC_0024977.jpg,nv,mel,The lesion type in the image is melanoma.
+81,ISIC_0025021.jpg,nv,mel,The lesion type in the image is melanoma.
+82,ISIC_0031781.jpg,nv,mel,The lesion type in the image is melanoma.
+83,ISIC_0028280.jpg,nv,mel,The lesion type in the image is melanoma.
+84,ISIC_0027405.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+85,ISIC_0033610.jpg,nv,mel,The lesion type in the image is melanoma.
+86,ISIC_0033404.jpg,nv,mel,The lesion type in the image is melanoma.
+87,ISIC_0033891.jpg,df,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+88,ISIC_0024352.jpg,nv,mel,The lesion type in the image is melanoma.
+89,ISIC_0031126.jpg,nv,mel,The lesion type in the image is melanoma.
+90,ISIC_0026969.jpg,nv,mel,The lesion type in the image is melanoma.
+91,ISIC_0025513.jpg,bcc,mel,The lesion type in the image is melanoma.
+92,ISIC_0032270.jpg,vasc,mel,The lesion type in the image is a melanoma.
+93,ISIC_0034159.jpg,mel,mel,The lesion type in the image is melanoma.
+94,ISIC_0031628.jpg,nv,mel,The lesion type in the image is melanoma.
+95,ISIC_0028729.jpg,nv,mel,The lesion type in the image is melanoma.
+96,ISIC_0024627.jpg,nv,mel,The lesion type in the image is melanoma.
+97,ISIC_0028227.jpg,mel,mel,The lesion type in the image is melanoma.
+98,ISIC_0024763.jpg,akiec,mel,The lesion type in the image is melanoma.
+99,ISIC_0026009.jpg,mel,mel,The lesion type in the image is melanoma.
+100,ISIC_0030673.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+101,ISIC_0025264.jpg,akiec,mel,The lesion type in the image is melanoma.
+102,ISIC_0029590.jpg,nv,mel,The lesion type in the image is melanoma.
+103,ISIC_0030030.jpg,nv,mel,The lesion type in the image is melanoma.
+104,ISIC_0031522.jpg,bkl,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+105,ISIC_0025825.jpg,akiec,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+106,ISIC_0025648.jpg,nv,mel,The lesion type in the image is melanoma.
+107,ISIC_0028426.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+108,ISIC_0027950.jpg,akiec,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+109,ISIC_0027275.jpg,bkl,mel,The lesion type in the image is melanoma.
+110,ISIC_0029457.jpg,nv,mel,The lesion type in the image is melanoma.
+111,ISIC_0029729.jpg,nv,mel,The lesion type in the image is melanoma.
+112,ISIC_0029308.jpg,bkl,mel,The lesion type in the image is melanoma.
+113,ISIC_0031000.jpg,bkl,mel,The lesion type in the image is melanoma.
+114,ISIC_0031970.jpg,nv,mel,The lesion type in the image is melanoma.
+115,ISIC_0028764.jpg,mel,mel,The lesion type in the image is melanoma.
+116,ISIC_0027959.jpg,nv,mel,The lesion type in the image is melanoma.
+117,ISIC_0032130.jpg,nv,mel,The lesion type in the image is melanoma.
+118,ISIC_0032211.jpg,nv,mel,The lesion type in the image is a melanoma.
+119,ISIC_0027726.jpg,nv,mel,The lesion type in the image is melanoma.
+120,ISIC_0030078.jpg,nv,mel,The lesion type in the image is melanoma.
+121,ISIC_0032115.jpg,nv,mel,The lesion type in the image is melanoma.
+122,ISIC_0024378.jpg,nv,mel,The lesion type in the image is a melanoma.
+123,ISIC_0031420.jpg,nv,mel,The lesion type in the image is melanoma.
+124,ISIC_0032121.jpg,nv,mel,The lesion type in the image is melanoma.
+125,ISIC_0030809.jpg,nv,mel,The lesion type in the image is melanoma.
+126,ISIC_0028394.jpg,nv,mel,The lesion type in the image is melanoma.
+127,ISIC_0031116.jpg,nv,mel,The lesion type in the image is melanoma.
+128,ISIC_0024796.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+129,ISIC_0029516.jpg,nv,mel,The lesion type in the image is melanoma.
+130,ISIC_0033578.jpg,mel,mel,The lesion type in the image is melanoma.
+131,ISIC_0032713.jpg,nv,mel,The lesion type in the image is melanoma.
+132,ISIC_0027628.jpg,nv,mel,The lesion type in the image is melanoma.
+133,ISIC_0033611.jpg,mel,mel,The lesion type in the image is melanoma.
+134,ISIC_0026238.jpg,nv,mel,The lesion type in the image is melanoma.
+135,ISIC_0027478.jpg,bcc,mel,The lesion type in the image is melanoma.
+136,ISIC_0031725.jpg,nv,mel,The lesion type in the image is melanoma.
+137,ISIC_0029867.jpg,nv,mel,The lesion type in the image is melanoma.
+138,ISIC_0026200.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+139,ISIC_0034291.jpg,bkl,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+140,ISIC_0031765.jpg,nv,mel,The lesion type in the image is melanoma.
+141,ISIC_0025763.jpg,nv,mel,The lesion type in the image is melanoma.
+142,ISIC_0028513.jpg,nv,mel,The lesion type in the image is melanoma.
+143,ISIC_0033472.jpg,nv,mel,The lesion type in the image is melanoma.
+144,ISIC_0033449.jpg,bkl,mel,The lesion type in the image is melanoma.
+145,ISIC_0032427.jpg,nv,mel,The lesion type in the image is melanoma.
+146,ISIC_0027194.jpg,bkl,mel,The lesion type in the image is melanoma.
+147,ISIC_0033496.jpg,mel,mel,The lesion type in the image is melanoma.
+148,ISIC_0030120.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+149,ISIC_0024381.jpg,bkl,mel,The lesion type in the image is melanoma.
+150,ISIC_0033861.jpg,nv,mel,The lesion type in the image is melanoma.
+151,ISIC_0033842.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+152,ISIC_0030817.jpg,nv,mel,The lesion type in the image is melanoma.
+153,ISIC_0025291.jpg,nv,mel,The lesion type in the image is melanoma.
+154,ISIC_0033598.jpg,nv,mel,The lesion type in the image is melanoma.
+155,ISIC_0032381.jpg,nv,mel,The lesion type in the image is melanoma.
+156,ISIC_0032921.jpg,mel,mel,The lesion type in the image is melanoma.
+157,ISIC_0030793.jpg,nv,mel,The lesion type in the image is melanoma.
+158,ISIC_0025778.jpg,nv,mel,The lesion type in the image is melanoma.
+159,ISIC_0029650.jpg,nv,mel,The lesion type in the image is melanoma.
+160,ISIC_0024973.jpg,df,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+161,ISIC_0031742.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+162,ISIC_0030279.jpg,nv,mel,The lesion type in the image is melanoma.
+163,ISIC_0025138.jpg,nv,mel,The lesion type in the image is melanoma.
+164,ISIC_0026130.jpg,nv,mel,The lesion type in the image is melanoma.
+165,ISIC_0024416.jpg,nv,mel,The lesion type in the image is melanoma.
+166,ISIC_0033997.jpg,nv,mel,The lesion type in the image is melanoma.
+167,ISIC_0024405.jpg,nv,mel,The lesion type in the image is melanoma.
+168,ISIC_0029683.jpg,bkl,mel,The lesion type in the image is melanoma.
+169,ISIC_0025539.jpg,akiec,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+170,ISIC_0026558.jpg,mel,mel,The lesion type in the image is melanoma.
+171,ISIC_0032048.jpg,nv,mel,The lesion type in the image is melanoma.
+172,ISIC_0026972.jpg,nv,mel,The lesion type in the image is melanoma.
+173,ISIC_0030532.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+174,ISIC_0028789.jpg,nv,mel,The lesion type in the image is melanoma.
+175,ISIC_0032384.jpg,bcc,mel,The lesion type in the image is melanoma.
+176,ISIC_0026204.jpg,nv,mel,The lesion type in the image is melanoma.
+177,ISIC_0032359.jpg,bkl,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+178,ISIC_0034095.jpg,bcc,mel,The lesion type in the image is melanoma.
+179,ISIC_0031906.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+180,ISIC_0030444.jpg,nv,mel,The lesion type in the image is melanoma.
+181,ISIC_0026731.jpg,nv,mel,The lesion type in the image is melanoma.
+182,ISIC_0025704.jpg,nv,mel,The lesion type in the image is melanoma.
+183,ISIC_0033809.jpg,nv,mel,The lesion type in the image is melanoma.
+184,ISIC_0025546.jpg,mel,mel,The lesion type in the image is melanoma.
+185,ISIC_0026977.jpg,nv,mel,The lesion type in the image is melanoma.
+186,ISIC_0033242.jpg,nv,mel,The lesion type in the image is melanoma.
+187,ISIC_0032512.jpg,nv,mel,The lesion type in the image is melanoma.
+188,ISIC_0031501.jpg,nv,mel,The lesion type in the image is melanoma.
+189,ISIC_0026125.jpg,nv,mel,The lesion type in the image is melanoma.
+190,ISIC_0028395.jpg,nv,mel,The lesion type in the image is melanoma.
+191,ISIC_0033474.jpg,nv,mel,The lesion type in the image is melanoma.
+192,ISIC_0031695.jpg,nv,mel,The lesion type in the image is melanoma.
+193,ISIC_0026577.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+194,ISIC_0030424.jpg,nv,mel,The lesion type in the image is melanoma.
+195,ISIC_0026965.jpg,nv,mel,The lesion type in the image is melanoma.
+196,ISIC_0027273.jpg,nv,mel,The lesion type in the image is melanoma.
+197,ISIC_0028895.jpg,nv,mel,The lesion type in the image is melanoma.
+198,ISIC_0031665.jpg,nv,mel,The lesion type in the image is melanoma.
+199,ISIC_0025078.jpg,nv,mel,The lesion type in the image is melanoma.
+200,ISIC_0030087.jpg,nv,mel,The lesion type in the image is melanoma.
+201,ISIC_0032382.jpg,bkl,mel,The lesion type in the image is melanoma.
+202,ISIC_0032744.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+203,ISIC_0027031.jpg,nv,mel,The lesion type in the image is melanoma.
+204,ISIC_0030459.jpg,bkl,nv,The lesion type in the image is melanocytic.
+205,ISIC_0026632.jpg,nv,mel,The lesion type in the image is a melanoma.
+206,ISIC_0032441.jpg,mel,mel,The lesion type in the image is melanoma.
+207,ISIC_0032639.jpg,nv,mel,The lesion type in the image is melanoma.
+208,ISIC_0028159.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+209,ISIC_0029906.jpg,nv,mel,The lesion type in the image is melanoma.
+210,ISIC_0029775.jpg,nv,mel,The lesion type in the image is melanoma.
+211,ISIC_0030029.jpg,nv,mel,The lesion type in the image is melanoma.
+212,ISIC_0029925.jpg,nv,mel,The lesion type in the image is melanoma.
+213,ISIC_0031322.jpg,nv,mel,The lesion type in the image is melanoma.
+214,ISIC_0026400.jpg,nv,mel,The lesion type in the image is melanoma.
+215,ISIC_0026192.jpg,bcc,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+216,ISIC_0024572.jpg,bcc,mel,The lesion type in the image is melanoma.
+217,ISIC_0031462.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+218,ISIC_0031251.jpg,nv,mel,The lesion type in the image is a melanoma.
+219,ISIC_0029799.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+220,ISIC_0024589.jpg,nv,mel,The lesion type in the image is melanoma.
+221,ISIC_0029778.jpg,bkl,mel,The lesion type in the image is melanoma.
+222,ISIC_0024671.jpg,nv,mel,The lesion type in the image is melanoma.
+223,ISIC_0029874.jpg,nv,mel,The lesion type in the image is melanoma.
+224,ISIC_0032011.jpg,nv,mel,The lesion type in the image is melanoma.
+225,ISIC_0028389.jpg,bkl,mel,The lesion type in the image is melanoma.
+226,ISIC_0024309.jpg,nv,mel,The lesion type in the image is melanoma.
+227,ISIC_0032544.jpg,mel,mel,The lesion type in the image is melanoma.
+228,ISIC_0028259.jpg,nv,mel,The lesion type in the image is melanoma.
+229,ISIC_0030849.jpg,bkl,mel,The lesion type in the image is melanoma.
+230,ISIC_0024626.jpg,bkl,mel,The lesion type in the image is melanoma.
+231,ISIC_0033480.jpg,bkl,mel,The lesion type in the image is melanoma.
+232,ISIC_0028153.jpg,nv,mel,The lesion type in the image is melanoma.
+233,ISIC_0028881.jpg,bkl,mel,The lesion type in the image is melanoma.
+234,ISIC_0028622.jpg,bkl,mel,The lesion type in the image is melanoma.
+235,ISIC_0025112.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+236,ISIC_0032817.jpg,nv,mel,The lesion type in the image is melanoma.
+237,ISIC_0030205.jpg,nv,mel,The lesion type in the image is melanoma.
+238,ISIC_0033214.jpg,nv,mel,The lesion type in the image is melanoma.
+239,ISIC_0034025.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+240,ISIC_0025644.jpg,bcc,mel,The lesion type in the image is melanoma.
+241,ISIC_0024734.jpg,nv,mel,The lesion type in the image is melanoma.
+242,ISIC_0029350.jpg,nv,mel,The lesion type in the image is melanoma.
+243,ISIC_0026216.jpg,nv,mel,The lesion type in the image is melanoma.
+244,ISIC_0026453.jpg,bcc,mel,The lesion type in the image is melanoma.
+245,ISIC_0027023.jpg,bkl,mel,The lesion type in the image is melanoma.
+246,ISIC_0027957.jpg,bkl,mel,The lesion type in the image is melanoma.
+247,ISIC_0028969.jpg,mel,mel,The lesion type in the image is melanoma.
+248,ISIC_0030601.jpg,nv,mel,The lesion type in the image is melanoma.
+249,ISIC_0033536.jpg,akiec,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+250,ISIC_0033122.jpg,mel,mel,The lesion type in the image is melanoma.
+251,ISIC_0024658.jpg,nv,mel,The lesion type in the image is melanoma.
+252,ISIC_0027464.jpg,nv,mel,The lesion type in the image is melanoma.
+253,ISIC_0028981.jpg,nv,mel,The lesion type in the image is melanoma.
+254,ISIC_0028722.jpg,nv,mel,The lesion type in the image is melanoma.
+255,ISIC_0032007.jpg,nv,mel,The lesion type in the image is melanoma.
+256,ISIC_0024618.jpg,nv,vasc,The lesion type in the image is a vascular lesion.
+257,ISIC_0033984.jpg,nv,mel,The lesion type in the image is melanoma.
+258,ISIC_0031587.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+259,ISIC_0025489.jpg,mel,mel,The lesion type in the image is melanoma.
+260,ISIC_0027177.jpg,nv,mel,The lesion type in the image is melanoma.
+261,ISIC_0028872.jpg,akiec,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+262,ISIC_0025390.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+263,ISIC_0032821.jpg,nv,mel,The lesion type in the image is melanoma.
+264,ISIC_0030313.jpg,nv,mel,The lesion type in the image is melanoma.
+265,ISIC_0033955.jpg,nv,mel,The lesion type in the image is melanoma.
+266,ISIC_0025092.jpg,nv,mel,The lesion type in the image is melanoma.
+267,ISIC_0031156.jpg,nv,mel,The lesion type in the image is melanoma.
+268,ISIC_0033199.jpg,bkl,mel,The lesion type in the image is melanoma.
+269,ISIC_0027149.jpg,mel,mel,The lesion type in the image is melanoma.
+270,ISIC_0032266.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+271,ISIC_0027138.jpg,nv,mel,The lesion type in the image is melanoma.
+272,ISIC_0030886.jpg,nv,mel,The lesion type in the image is melanoma.
+273,ISIC_0032845.jpg,mel,mel,The lesion type in the image is melanoma.
+274,ISIC_0031488.jpg,nv,mel,The lesion type in the image is melanoma.
+275,ISIC_0030698.jpg,bkl,mel,The lesion type in the image is melanoma.
+276,ISIC_0026861.jpg,bkl,mel,The lesion type in the image is melanoma.
+277,ISIC_0029455.jpg,bkl,vasc,The lesion type in the image is vasc.
+278,ISIC_0024374.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+279,ISIC_0026375.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+280,ISIC_0027006.jpg,bkl,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+281,ISIC_0032413.jpg,nv,mel,The lesion type in the image is melanoma.
+282,ISIC_0025106.jpg,nv,mel,The lesion type in the image is melanoma.
+283,ISIC_0032327.jpg,nv,mel,The lesion type in the image is melanoma.
+284,ISIC_0032807.jpg,mel,mel,The lesion type in the image is melanoma.
+285,ISIC_0026197.jpg,nv,mel,The lesion type in the image is melanoma.
+286,ISIC_0024588.jpg,nv,mel,The lesion type in the image is melanoma.
+287,ISIC_0033025.jpg,nv,mel,The lesion type in the image is melanoma.
+288,ISIC_0029302.jpg,bkl,mel,The lesion type in the image is melanoma.
+289,ISIC_0029103.jpg,nv,mel,The lesion type in the image is melanoma.
+290,ISIC_0032684.jpg,mel,mel,The lesion type in the image is melanoma.
+291,ISIC_0032811.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+292,ISIC_0028889.jpg,nv,mel,The lesion type in the image is melanoma.
+293,ISIC_0030874.jpg,nv,mel,The lesion type in the image is melanoma.
+294,ISIC_0034292.jpg,nv,mel,The lesion type in the image is melanoma.
+295,ISIC_0024350.jpg,nv,mel,The lesion type in the image is melanoma.
+296,ISIC_0029274.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+297,ISIC_0030028.jpg,nv,mel,The lesion type in the image is melanoma.
+298,ISIC_0031439.jpg,nv,mel,The lesion type in the image is melanoma.
+299,ISIC_0026804.jpg,nv,mel,The lesion type in the image is melanoma.
+300,ISIC_0024700.jpg,mel,mel,The lesion type in the image is melanoma.
+301,ISIC_0033758.jpg,bkl,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+302,ISIC_0027347.jpg,nv,mel,The lesion type in the image is melanoma.
+303,ISIC_0029279.jpg,akiec,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+304,ISIC_0026387.jpg,nv,mel,The lesion type in the image is melanoma.
+305,ISIC_0034164.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+306,ISIC_0031640.jpg,bcc,mel,The lesion type in the image is a melanoma.
+307,ISIC_0031418.jpg,nv,mel,The lesion type in the image is melanoma.
+308,ISIC_0026648.jpg,nv,mel,The lesion type in the image is melanoma.
+309,ISIC_0030798.jpg,mel,mel,The lesion type in the image is melanoma.
+310,ISIC_0030219.jpg,nv,mel,The lesion type in the image is melanoma.
+311,ISIC_0027151.jpg,bkl,mel,The lesion type in the image is melanoma.
+312,ISIC_0033325.jpg,mel,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+313,ISIC_0033109.jpg,nv,mel,The lesion type in the image is melanoma.
+314,ISIC_0029703.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+315,ISIC_0026471.jpg,df,mel,The lesion type in the image is melanoma.
+316,ISIC_0027419.jpg,bkl,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+317,ISIC_0026288.jpg,nv,mel,The lesion type in the image is melanoma.
+318,ISIC_0025686.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+319,ISIC_0029980.jpg,nv,mel,The lesion type in the image is melanoma.
+320,ISIC_0033602.jpg,nv,mel,The lesion type in the image is melanoma.
+321,ISIC_0030186.jpg,nv,mel,The lesion type in the image is melanoma.
+322,ISIC_0031192.jpg,nv,nv,The lesion type in the image is melanocytic.
+323,ISIC_0026534.jpg,nv,mel,The lesion type in the image is melanoma.
+324,ISIC_0029917.jpg,bcc,mel,The lesion type in the image is melanoma.
+325,ISIC_0030769.jpg,nv,mel,The lesion type in the image is melanoma.
+326,ISIC_0024528.jpg,nv,mel,The lesion type in the image is melanoma.
+327,ISIC_0030244.jpg,df,mel,The lesion type in the image is melanoma.
+328,ISIC_0027912.jpg,nv,mel,The lesion type in the image is melanoma.
+329,ISIC_0027766.jpg,nv,mel,The lesion type in the image is melanoma.
+330,ISIC_0024353.jpg,nv,mel,The lesion type in the image is melanoma.
+331,ISIC_0030537.jpg,nv,mel,The lesion type in the image is melanoma.
+332,ISIC_0031480.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+333,ISIC_0026529.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+334,ISIC_0029021.jpg,mel,mel,The lesion type in the image is melanoma.
+335,ISIC_0028167.jpg,nv,mel,The lesion type in the image is melanoma.
+336,ISIC_0026383.jpg,nv,mel,The lesion type in the image is melanoma.
+337,ISIC_0025194.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+338,ISIC_0031716.jpg,bkl,mel,The lesion type in the image is melanoma.
+339,ISIC_0028266.jpg,nv,mel,The lesion type in the image is melanoma.
+340,ISIC_0028861.jpg,nv,mel,The lesion type in the image is melanoma.
+341,ISIC_0027176.jpg,nv,mel,The lesion type in the image is melanoma.
+342,ISIC_0034085.jpg,mel,mel,The lesion type in the image is melanoma.
+343,ISIC_0029477.jpg,nv,mel,The lesion type in the image is melanoma.
+344,ISIC_0033910.jpg,bkl,mel,The lesion type in the image is melanoma.
+345,ISIC_0032925.jpg,mel,mel,The lesion type in the image is melanoma.
+346,ISIC_0027095.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+347,ISIC_0031820.jpg,nv,mel,The lesion type in the image is melanoma.
+348,ISIC_0029573.jpg,akiec,nv,The lesion type in the image is melanocytic.
+349,ISIC_0032975.jpg,mel,mel,The lesion type in the image is melanoma.
+350,ISIC_0032930.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+351,ISIC_0030379.jpg,nv,mel,The lesion type in the image is melanoma.
+352,ISIC_0028156.jpg,mel,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+353,ISIC_0033594.jpg,mel,mel,The lesion type in the image is melanoma.
+354,ISIC_0027186.jpg,nv,mel,The lesion type in the image is melanoma.
+355,ISIC_0028110.jpg,nv,mel,The lesion type in the image is melanoma.
+356,ISIC_0029165.jpg,nv,mel,The lesion type in the image is melanoma.
+357,ISIC_0027378.jpg,nv,mel,The lesion type in the image is melanoma.
+358,ISIC_0028283.jpg,bcc,mel,The lesion type in the image is melanoma.
+359,ISIC_0029774.jpg,nv,mel,The lesion type in the image is melanoma.
+360,ISIC_0029806.jpg,nv,mel,The lesion type in the image is melanoma.
+361,ISIC_0028097.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+362,ISIC_0029173.jpg,nv,mel,The lesion type in the image is melanoma.
+363,ISIC_0026918.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+364,ISIC_0033264.jpg,bkl,mel,The lesion type in the image is melanoma.
+365,ISIC_0031402.jpg,nv,mel,The lesion type in the image is melanoma.
+366,ISIC_0029005.jpg,nv,mel,The lesion type in the image is a melanoma.
+367,ISIC_0024981.jpg,bkl,mel,The lesion type in the image is melanoma.
+368,ISIC_0032139.jpg,bcc,mel,The lesion type in the image is melanoma.
+369,ISIC_0032521.jpg,nv,mel,The lesion type in the image is melanoma.
+370,ISIC_0028498.jpg,nv,mel,The lesion type in the image is melanoma.
+371,ISIC_0028300.jpg,nv,mel,The lesion type in the image is melanoma.
+372,ISIC_0032868.jpg,nv,mel,The lesion type in the image is melanoma.
+373,ISIC_0031551.jpg,nv,mel,The lesion type in the image is melanoma.
+374,ISIC_0030173.jpg,bkl,mel,The lesion type in the image is melanoma.
+375,ISIC_0025308.jpg,nv,mel,The lesion type in the image is melanoma.
+376,ISIC_0032154.jpg,akiec,mel,The lesion type in the image is melanoma.
+377,ISIC_0033967.jpg,mel,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+378,ISIC_0028222.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+379,ISIC_0032171.jpg,nv,mel,The lesion type in the image is melanoma.
+380,ISIC_0030022.jpg,nv,mel,The lesion type in the image is melanoma.
+381,ISIC_0032408.jpg,mel,mel,The lesion type in the image is melanoma.
+382,ISIC_0029674.jpg,bkl,mel,The lesion type in the image is melanoma.
+383,ISIC_0030123.jpg,bkl,mel,The lesion type in the image is melanoma.
+384,ISIC_0031987.jpg,bkl,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+385,ISIC_0028420.jpg,nv,mel,The lesion type in the image is melanoma.
+386,ISIC_0028330.jpg,nv,mel,The lesion type in the image is melanoma.
+387,ISIC_0026798.jpg,bcc,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+388,ISIC_0034243.jpg,mel,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+389,ISIC_0025485.jpg,bkl,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+390,ISIC_0028816.jpg,akiec,mel,The lesion type in the image is melanoma.
+391,ISIC_0033586.jpg,mel,mel,The lesion type in the image is melanoma.
+392,ISIC_0033601.jpg,bkl,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+393,ISIC_0028067.jpg,nv,mel,The lesion type in the image is melanoma.
+394,ISIC_0028617.jpg,nv,mel,The lesion type in the image is melanoma.
+395,ISIC_0024401.jpg,nv,mel,The lesion type in the image is melanoma.
+396,ISIC_0034196.jpg,vasc,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+397,ISIC_0024883.jpg,bkl,mel,The lesion type in the image is melanoma.
+398,ISIC_0028678.jpg,nv,mel,The lesion type in the image is melanoma.
+399,ISIC_0032758.jpg,nv,mel,The lesion type in the image is melanoma.
+400,ISIC_0032332.jpg,nv,mel,The lesion type in the image is melanoma.
+401,ISIC_0027142.jpg,bkl,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+402,ISIC_0026423.jpg,nv,mel,The lesion type in the image is melanoma.
+403,ISIC_0028976.jpg,nv,mel,The lesion type in the image is melanoma.
+404,ISIC_0024998.jpg,nv,mel,The lesion type in the image is melanoma.
+405,ISIC_0034167.jpg,bkl,mel,The lesion type in the image is melanoma.
+406,ISIC_0030454.jpg,nv,mel,The lesion type in the image is melanoma.
+407,ISIC_0031566.jpg,nv,mel,The lesion type in the image is melanoma.
+408,ISIC_0026642.jpg,nv,mel,The lesion type in the image is melanoma.
+409,ISIC_0025099.jpg,bkl,mel,The lesion type in the image is melanoma.
+410,ISIC_0028006.jpg,nv,mel,The lesion type in the image is melanoma.
+411,ISIC_0029454.jpg,mel,mel,The lesion type in the image is melanoma.
+412,ISIC_0029438.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+413,ISIC_0024387.jpg,nv,mel,The lesion type in the image is melanoma.
+414,ISIC_0024613.jpg,nv,mel,The lesion type in the image is melanoma.
+415,ISIC_0033948.jpg,nv,mel,The lesion type in the image is melanoma.
+416,ISIC_0032830.jpg,nv,mel,The lesion type in the image is melanoma.
+417,ISIC_0028866.jpg,nv,mel,The lesion type in the image is melanoma.
+418,ISIC_0029395.jpg,nv,mel,The lesion type in the image is melanoma.
+419,ISIC_0029487.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+420,ISIC_0029459.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+421,ISIC_0032792.jpg,nv,mel,The lesion type in the image is melanoma.
+422,ISIC_0024679.jpg,mel,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+423,ISIC_0032935.jpg,nv,mel,The lesion type in the image is melanoma.
+424,ISIC_0031562.jpg,nv,mel,The lesion type in the image is melanoma.
+425,ISIC_0033605.jpg,nv,mel,The lesion type in the image is melanoma.
+426,ISIC_0025479.jpg,nv,mel,The lesion type in the image is melanoma.
+427,ISIC_0033071.jpg,nv,mel,The lesion type in the image is melanoma.
+428,ISIC_0031298.jpg,bcc,mel,The lesion type in the image is melanoma.
+429,ISIC_0026695.jpg,nv,mel,The lesion type in the image is melanoma.
+430,ISIC_0024516.jpg,mel,mel,The lesion type in the image is melanoma.
+431,ISIC_0026022.jpg,nv,mel,The lesion type in the image is melanoma.
+432,ISIC_0026228.jpg,nv,mel,The lesion type in the image is melanoma.
+433,ISIC_0024604.jpg,nv,nv,The lesion type in the image is a melanocytic lesion.
+434,ISIC_0031472.jpg,nv,mel,The lesion type in the image is melanoma.
+435,ISIC_0029539.jpg,bcc,mel,The lesion type in the image is a melanoma.
+436,ISIC_0028337.jpg,nv,mel,The lesion type in the image is melanoma.
+437,ISIC_0025731.jpg,bcc,mel,The lesion type in the image is melanoma.
+438,ISIC_0030476.jpg,nv,mel,The lesion type in the image is melanoma.
+439,ISIC_0033254.jpg,vasc,mel,The lesion type in the image is melanoma.
+440,ISIC_0025079.jpg,nv,mel,The lesion type in the image is a melanoma.
+441,ISIC_0033506.jpg,nv,mel,The lesion type in the image is melanoma.
+442,ISIC_0024591.jpg,nv,mel,The lesion type in the image is melanoma.
+443,ISIC_0026862.jpg,nv,mel,The lesion type in the image is melanoma.
+444,ISIC_0025362.jpg,bcc,mel,The lesion type in the image is melanoma.
+445,ISIC_0030070.jpg,vasc,mel,The lesion type in the image is melanoma.
+446,ISIC_0026051.jpg,nv,mel,The lesion type in the image is melanoma.
+447,ISIC_0027197.jpg,nv,mel,The lesion type in the image is melanoma.
+448,ISIC_0028637.jpg,nv,mel,The lesion type in the image is melanoma.
+449,ISIC_0030179.jpg,nv,mel,The lesion type in the image is melanoma.
+450,ISIC_0025813.jpg,nv,mel,The lesion type in the image is melanoma.
+451,ISIC_0024330.jpg,df,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+452,ISIC_0025125.jpg,nv,mel,The lesion type in the image is melanoma.
+453,ISIC_0029532.jpg,nv,mel,The lesion type in the image is melanoma.
+454,ISIC_0032979.jpg,nv,mel,The lesion type in the image is melanoma.
+455,ISIC_0025787.jpg,nv,mel,The lesion type in the image is melanoma.
+456,ISIC_0029099.jpg,vasc,mel,The lesion type in the image is a melanoma.
+457,ISIC_0025692.jpg,nv,mel,The lesion type in the image is melanoma.
+458,ISIC_0024436.jpg,bcc,mel,The lesion type in the image is melanoma.
+459,ISIC_0032044.jpg,mel,mel,The lesion type in the image is melanoma.
+460,ISIC_0026183.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+461,ISIC_0031932.jpg,nv,mel,The lesion type in the image is melanoma.
+462,ISIC_0032237.jpg,nv,mel,The lesion type in the image is melanoma.
+463,ISIC_0025004.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+464,ISIC_0025333.jpg,nv,mel,The lesion type in the image is melanoma.
+465,ISIC_0032840.jpg,mel,mel,The lesion type in the image is melanoma.
+466,ISIC_0027173.jpg,nv,mel,The lesion type in the image is melanoma.
+467,ISIC_0032650.jpg,nv,mel,The lesion type in the image is melanoma.
+468,ISIC_0033927.jpg,nv,mel,The lesion type in the image is melanoma.
+469,ISIC_0034050.jpg,mel,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+470,ISIC_0032881.jpg,nv,mel,The lesion type in the image is melanoma.
+471,ISIC_0032933.jpg,nv,mel,The lesion type in the image is melanoma.
+472,ISIC_0032675.jpg,bkl,mel,The lesion type in the image is melanoma.
+473,ISIC_0030599.jpg,nv,mel,The lesion type in the image is melanoma.
+474,ISIC_0026643.jpg,bcc,vasc,The lesion type in the image is a vascular lesion.
+475,ISIC_0028951.jpg,nv,mel,The lesion type in the image is melanoma.
+476,ISIC_0025933.jpg,nv,mel,The lesion type in the image is melanoma.
+477,ISIC_0028886.jpg,nv,mel,The lesion type in the image is melanoma.
+478,ISIC_0029796.jpg,nv,mel,The lesion type in the image is melanoma.
+479,ISIC_0029433.jpg,nv,mel,The lesion type in the image is melanoma.
+480,ISIC_0031645.jpg,nv,mel,The lesion type in the image is melanoma.
+481,ISIC_0026555.jpg,nv,mel,The lesion type in the image is melanoma.
+482,ISIC_0034212.jpg,nv,mel,The lesion type in the image is melanoma.
+483,ISIC_0025916.jpg,nv,mel,The lesion type in the image is melanoma.
+484,ISIC_0029827.jpg,akiec,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+485,ISIC_0033679.jpg,mel,mel,The lesion type in the image is melanoma.
+486,ISIC_0025135.jpg,nv,mel,The lesion type in the image is melanoma.
+487,ISIC_0025530.jpg,bcc,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+488,ISIC_0032168.jpg,bkl,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+489,ISIC_0027680.jpg,bkl,mel,The lesion type in the image is melanoma.
+490,ISIC_0032686.jpg,nv,mel,The lesion type in the image is melanoma.
+491,ISIC_0032336.jpg,nv,mel,The lesion type in the image is melanoma.
+492,ISIC_0030213.jpg,nv,mel,The lesion type in the image is melanoma.
+493,ISIC_0027552.jpg,mel,mel,The lesion type in the image is melanoma.
+494,ISIC_0031265.jpg,nv,mel,The lesion type in the image is melanoma.
+495,ISIC_0024651.jpg,nv,mel,The lesion type in the image is melanoma.
+496,ISIC_0031711.jpg,mel,mel,The lesion type in the image is melanoma.
+497,ISIC_0029052.jpg,df,mel,The lesion type in the image is a melanoma.
+498,ISIC_0025910.jpg,nv,mel,The lesion type in the image is melanoma.
+499,ISIC_0030318.jpg,bkl,mel,The lesion type in the image is melanoma.
+500,ISIC_0032545.jpg,vasc,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+501,ISIC_0026722.jpg,nv,mel,The lesion type in the image is melanoma.
+502,ISIC_0029869.jpg,nv,mel,The lesion type in the image is melanoma.
+503,ISIC_0025426.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+504,ISIC_0030713.jpg,nv,mel,The lesion type in the image is melanoma.
+505,ISIC_0031937.jpg,bkl,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+506,ISIC_0029111.jpg,nv,mel,The lesion type in the image is melanoma.
+507,ISIC_0026194.jpg,akiec,mel,The lesion type in the image is melanoma.
+508,ISIC_0028105.jpg,nv,mel,The lesion type in the image is melanoma.
+509,ISIC_0028336.jpg,bkl,mel,The lesion type in the image is melanoma.
+510,ISIC_0033429.jpg,mel,mel,The lesion type in the image is melanoma.
+511,ISIC_0026224.jpg,nv,mel,The lesion type in the image is melanoma.
+512,ISIC_0034109.jpg,nv,mel,The lesion type in the image is melanoma.
+513,ISIC_0028522.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+514,ISIC_0033344.jpg,mel,mel,The lesion type in the image is melanoma.
+515,ISIC_0034039.jpg,nv,mel,The lesion type in the image is melanoma.
+516,ISIC_0025461.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+517,ISIC_0030974.jpg,nv,mel,The lesion type in the image is melanoma.
+518,ISIC_0026434.jpg,nv,mel,The lesion type in the image is melanoma.
+519,ISIC_0028656.jpg,bkl,mel,The lesion type in the image is melanoma.
+520,ISIC_0034076.jpg,mel,mel,The lesion type in the image is melanoma.
+521,ISIC_0031277.jpg,bkl,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+522,ISIC_0026906.jpg,nv,mel,The lesion type in the image is melanoma.
+523,ISIC_0029071.jpg,nv,mel,The lesion type in the image is melanoma.
+524,ISIC_0032024.jpg,bkl,mel,The lesion type in the image is melanoma.
+525,ISIC_0030461.jpg,nv,mel,The lesion type in the image is melanoma.
+526,ISIC_0027093.jpg,bcc,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+527,ISIC_0027586.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+528,ISIC_0027301.jpg,nv,mel,The lesion type in the image is melanoma.
+529,ISIC_0033123.jpg,vasc,mel,The lesion type in the image is melanoma.
+530,ISIC_0033705.jpg,akiec,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+531,ISIC_0025284.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+532,ISIC_0031817.jpg,nv,mel,The lesion type in the image is melanoma.
+533,ISIC_0030529.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+534,ISIC_0028635.jpg,nv,mel,The lesion type in the image is melanoma.
+535,ISIC_0025404.jpg,nv,mel,The lesion type in the image is melanoma.
+536,ISIC_0034065.jpg,mel,mel,The lesion type in the image is melanoma.
+537,ISIC_0029681.jpg,nv,mel,The lesion type in the image is melanoma.
+538,ISIC_0029131.jpg,nv,mel,The lesion type in the image is melanoma.
+539,ISIC_0028697.jpg,nv,mel,The lesion type in the image is melanoma.
+540,ISIC_0032964.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+541,ISIC_0029685.jpg,nv,mel,The lesion type in the image is a melanoma.
+542,ISIC_0028900.jpg,mel,mel,The lesion type in the image is melanoma.
+543,ISIC_0029786.jpg,nv,mel,The lesion type in the image is melanoma.
+544,ISIC_0029897.jpg,bkl,mel,The lesion type in the image is melanoma.
+545,ISIC_0029345.jpg,bkl,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+546,ISIC_0033699.jpg,nv,mel,The lesion type in the image is melanoma.
+547,ISIC_0032023.jpg,nv,mel,The lesion type in the image is melanoma.
+548,ISIC_0031391.jpg,nv,mel,The lesion type in the image is melanoma.
+549,ISIC_0025392.jpg,bkl,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+550,ISIC_0029505.jpg,bkl,nv,The lesion type in the image is melanocytic.
+551,ISIC_0031242.jpg,nv,mel,The lesion type in the image is melanoma.
+552,ISIC_0031555.jpg,nv,mel,The lesion type in the image is melanoma.
+553,ISIC_0033293.jpg,nv,mel,The lesion type in the image is melanoma.
+554,ISIC_0032370.jpg,nv,mel,The lesion type in the image is melanoma.
+555,ISIC_0030711.jpg,nv,mel,The lesion type in the image is melanoma.
+556,ISIC_0026864.jpg,nv,mel,The lesion type in the image is a melanoma.
+557,ISIC_0029420.jpg,bkl,mel,The lesion type in the image is melanoma.
+558,ISIC_0033046.jpg,nv,mel,The lesion type in the image is melanoma.
+559,ISIC_0032538.jpg,vasc,mel,The lesion type in the image is melanoma.
+560,ISIC_0033215.jpg,nv,mel,The lesion type in the image is melanoma.
+561,ISIC_0029526.jpg,nv,mel,The lesion type in the image is melanoma.
+562,ISIC_0032455.jpg,akiec,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+563,ISIC_0025833.jpg,nv,mel,The lesion type in the image is melanoma.
+564,ISIC_0026880.jpg,nv,mel,The lesion type in the image is melanoma.
+565,ISIC_0033867.jpg,nv,mel,The lesion type in the image is melanoma.
+566,ISIC_0030554.jpg,nv,mel,The lesion type in the image is melanoma.
+567,ISIC_0026182.jpg,nv,mel,The lesion type in the image is melanoma.
+568,ISIC_0032472.jpg,nv,mel,The lesion type in the image is melanoma.
+569,ISIC_0032602.jpg,mel,mel,The lesion type in the image is melanoma.
+570,ISIC_0025537.jpg,nv,mel,The lesion type in the image is melanoma.
+571,ISIC_0032822.jpg,nv,mel,The lesion type in the image is melanoma.
+572,ISIC_0030037.jpg,nv,mel,The lesion type in the image is melanoma.
+573,ISIC_0024438.jpg,nv,mel,The lesion type in the image is melanoma.
+574,ISIC_0028763.jpg,akiec,mel,The lesion type in the image is melanoma.
+575,ISIC_0031996.jpg,vasc,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+576,ISIC_0028007.jpg,nv,mel,The lesion type in the image is melanoma.
+577,ISIC_0029146.jpg,mel,nv,The lesion type in the image is melanocytic.
+578,ISIC_0031941.jpg,mel,mel,The lesion type in the image is melanoma.
+579,ISIC_0026638.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+580,ISIC_0029533.jpg,akiec,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+581,ISIC_0028232.jpg,akiec,mel,The lesion type in the image is melanoma.
+582,ISIC_0024331.jpg,bcc,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+583,ISIC_0029437.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+584,ISIC_0027590.jpg,mel,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+585,ISIC_0026014.jpg,akiec,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+586,ISIC_0027830.jpg,nv,mel,The lesion type in the image is melanoma.
+587,ISIC_0029710.jpg,nv,mel,The lesion type in the image is melanoma.
+588,ISIC_0024590.jpg,bcc,mel,The lesion type in the image is melanoma.
+589,ISIC_0025848.jpg,nv,mel,The lesion type in the image is melanoma.
+590,ISIC_0028411.jpg,bkl,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+591,ISIC_0028610.jpg,nv,mel,The lesion type in the image is melanoma.
+592,ISIC_0030722.jpg,vasc,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+593,ISIC_0030183.jpg,mel,mel,The lesion type in the image is melanoma.
+594,ISIC_0024922.jpg,nv,mel,The lesion type in the image is melanoma.
+595,ISIC_0030923.jpg,nv,mel,The lesion type in the image is melanoma.
+596,ISIC_0027755.jpg,nv,mel,The lesion type in the image is melanoma.
+597,ISIC_0027297.jpg,bcc,mel,The lesion type in the image is melanoma.
+598,ISIC_0033456.jpg,akiec,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+599,ISIC_0027991.jpg,bkl,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+600,ISIC_0031203.jpg,mel,mel,The lesion type in the image is melanoma.
+601,ISIC_0030433.jpg,nv,mel,The lesion type in the image is melanoma.
+602,ISIC_0032170.jpg,bkl,mel,The lesion type in the image is melanoma.
+603,ISIC_0026339.jpg,nv,mel,The lesion type in the image is melanoma.
+604,ISIC_0032501.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+605,ISIC_0033171.jpg,mel,mel,The lesion type in the image is melanoma.
+606,ISIC_0034220.jpg,nv,mel,The lesion type in the image is melanoma.
+607,ISIC_0033723.jpg,nv,mel,The lesion type in the image is melanoma.
+608,ISIC_0031863.jpg,nv,mel,The lesion type in the image is melanoma.
+609,ISIC_0024644.jpg,mel,mel,The lesion type in the image is melanoma.
+610,ISIC_0024961.jpg,mel,mel,The lesion type in the image is melanoma.
+611,ISIC_0027691.jpg,nv,mel,The lesion type in the image is melanoma.
+612,ISIC_0025780.jpg,akiec,mel,The lesion type in the image is melanoma.
+613,ISIC_0027052.jpg,nv,mel,The lesion type in the image is melanoma.
+614,ISIC_0024333.jpg,mel,mel,The lesion type in the image is melanoma.
+615,ISIC_0029647.jpg,bcc,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+616,ISIC_0027828.jpg,bkl,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+617,ISIC_0024424.jpg,nv,vasc,The lesion type in the image is a vascular lesion.
+618,ISIC_0028138.jpg,nv,mel,The lesion type in the image is melanoma.
+619,ISIC_0030638.jpg,nv,mel,The lesion type in the image is melanoma.
+620,ISIC_0026888.jpg,nv,mel,The lesion type in the image is melanoma.
+621,ISIC_0033540.jpg,nv,mel,The lesion type in the image is melanoma.
+622,ISIC_0027988.jpg,nv,mel,The lesion type in the image is melanoma.
+623,ISIC_0027184.jpg,akiec,mel,The lesion type in the image is melanoma.
+624,ISIC_0026447.jpg,nv,mel,The lesion type in the image is melanoma.
+625,ISIC_0034049.jpg,mel,mel,The lesion type in the image is melanoma.
+626,ISIC_0032818.jpg,nv,mel,The lesion type in the image is melanoma.
+627,ISIC_0033794.jpg,nv,mel,The lesion type in the image is melanoma.
+628,ISIC_0028141.jpg,nv,mel,The lesion type in the image is melanoma.
+629,ISIC_0025877.jpg,nv,mel,The lesion type in the image is melanoma.
+630,ISIC_0028648.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+631,ISIC_0026645.jpg,akiec,mel,The lesion type in the image is melanoma.
+632,ISIC_0034289.jpg,mel,mel,The lesion type in the image is melanoma.
+633,ISIC_0032659.jpg,nv,mel,The lesion type in the image is melanoma.
+634,ISIC_0028899.jpg,mel,mel,The lesion type in the image is melanoma.
+635,ISIC_0024978.jpg,nv,mel,The lesion type in the image is melanoma.
+636,ISIC_0028204.jpg,nv,mel,The lesion type in the image is melanoma.
+637,ISIC_0024732.jpg,mel,mel,The lesion type in the image is melanoma.
+638,ISIC_0029159.jpg,nv,mel,The lesion type in the image is melanoma.
+639,ISIC_0033063.jpg,mel,mel,The lesion type in the image is melanoma.
+640,ISIC_0025710.jpg,bkl,mel,The lesion type in the image is melanoma.
+641,ISIC_0025950.jpg,nv,mel,The lesion type in the image is melanoma.
+642,ISIC_0025175.jpg,nv,mel,The lesion type in the image is melanoma.
+643,ISIC_0030906.jpg,nv,mel,The lesion type in the image is melanoma.
+644,ISIC_0033971.jpg,nv,mel,The lesion type in the image is melanoma.
+645,ISIC_0030225.jpg,nv,mel,The lesion type in the image is melanoma.
+646,ISIC_0033448.jpg,nv,mel,The lesion type in the image is melanoma.
+647,ISIC_0027313.jpg,nv,mel,The lesion type in the image is melanoma.
+648,ISIC_0028063.jpg,akiec,mel,The lesion type in the image is melanoma.
+649,ISIC_0028594.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+650,ISIC_0029889.jpg,vasc,mel,The lesion type in the image is a melanoma.
+651,ISIC_0027750.jpg,nv,mel,The lesion type in the image is melanoma.
+652,ISIC_0032647.jpg,nv,mel,The lesion type in the image is melanoma.
+653,ISIC_0029654.jpg,nv,mel,The lesion type in the image is melanoma.
+654,ISIC_0028822.jpg,bkl,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+655,ISIC_0031256.jpg,nv,mel,The lesion type in the image is melanoma.
+656,ISIC_0027265.jpg,nv,mel,The lesion type in the image is melanoma.
+657,ISIC_0033216.jpg,mel,mel,The lesion type in the image is melanoma.
+658,ISIC_0034073.jpg,nv,mel,The lesion type in the image is melanoma.
+659,ISIC_0027446.jpg,nv,mel,The lesion type in the image is melanoma.
+660,ISIC_0030281.jpg,mel,mel,The lesion type in the image is melanoma.
+661,ISIC_0028230.jpg,nv,mel,The lesion type in the image is melanoma.
+662,ISIC_0025252.jpg,nv,mel,The lesion type in the image is melanoma.
+663,ISIC_0030802.jpg,nv,mel,The lesion type in the image is melanoma.
+664,ISIC_0027169.jpg,nv,mel,The lesion type in the image is melanoma.
+665,ISIC_0025347.jpg,nv,mel,The lesion type in the image is melanoma.
+666,ISIC_0029822.jpg,nv,mel,The lesion type in the image is melanoma.
+667,ISIC_0025300.jpg,nv,mel,The lesion type in the image is melanoma.
+668,ISIC_0028474.jpg,nv,mel,The lesion type in the image is melanoma.
+669,ISIC_0030197.jpg,bcc,nv,The lesion type in the image is melanocytic.
+670,ISIC_0032981.jpg,mel,mel,The lesion type in the image is melanoma.
+671,ISIC_0026939.jpg,nv,mel,The lesion type in the image is melanoma.
+672,ISIC_0029991.jpg,bkl,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+673,ISIC_0028690.jpg,nv,mel,The lesion type in the image is melanoma.
+674,ISIC_0026101.jpg,nv,mel,The lesion type in the image is melanoma.
+675,ISIC_0028366.jpg,nv,mel,The lesion type in the image is melanoma.
+676,ISIC_0031977.jpg,mel,mel,The lesion type in the image is melanoma.
+677,ISIC_0027992.jpg,nv,mel,The lesion type in the image is melanoma.
+678,ISIC_0026999.jpg,nv,mel,The lesion type in the image is melanoma.
+679,ISIC_0032528.jpg,nv,mel,The lesion type in the image is melanoma.
+680,ISIC_0031127.jpg,nv,mel,The lesion type in the image is melanoma.
+681,ISIC_0031720.jpg,nv,mel,The lesion type in the image is melanoma.
+682,ISIC_0029614.jpg,nv,mel,The lesion type in the image is melanoma.
+683,ISIC_0032261.jpg,nv,mel,The lesion type in the image is melanoma.
+684,ISIC_0027030.jpg,mel,nv,The lesion type in the image is melanocytic.
+685,ISIC_0029632.jpg,mel,mel,The lesion type in the image is melanoma.
+686,ISIC_0029001.jpg,nv,mel,The lesion type in the image is melanoma.
+687,ISIC_0024611.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+688,ISIC_0033922.jpg,nv,mel,The lesion type in the image is melanoma.
+689,ISIC_0031681.jpg,nv,mel,The lesion type in the image is melanoma.
+690,ISIC_0029012.jpg,bkl,mel,The lesion type in the image is melanoma.
+691,ISIC_0027710.jpg,bkl,mel,The lesion type in the image is melanoma.
+692,ISIC_0032037.jpg,nv,mel,The lesion type in the image is melanoma.
+693,ISIC_0033575.jpg,bcc,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+694,ISIC_0030573.jpg,nv,mel,The lesion type in the image is melanoma.
+695,ISIC_0029986.jpg,nv,mel,The lesion type in the image is melanoma.
+696,ISIC_0034080.jpg,nv,mel,The lesion type in the image is melanoma.
+697,ISIC_0027009.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+698,ISIC_0028576.jpg,nv,mel,The lesion type in the image is melanoma.
+699,ISIC_0033907.jpg,nv,mel,The lesion type in the image is melanoma.
+700,ISIC_0025770.jpg,nv,mel,The lesion type in the image is melanoma.
+701,ISIC_0025843.jpg,nv,mel,The lesion type in the image is melanoma.
+702,ISIC_0031301.jpg,nv,mel,The lesion type in the image is melanoma.
+703,ISIC_0033433.jpg,nv,nv,The lesion type in the image is melanocytic.
+704,ISIC_0028778.jpg,nv,mel,The lesion type in the image is melanoma.
+705,ISIC_0025132.jpg,mel,mel,The lesion type in the image is melanoma.
+706,ISIC_0027859.jpg,bkl,mel,The lesion type in the image is melanoma.
+707,ISIC_0032412.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+708,ISIC_0030260.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+709,ISIC_0032416.jpg,nv,mel,The lesion type in the image is melanoma.
+710,ISIC_0026441.jpg,bkl,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+711,ISIC_0033556.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+712,ISIC_0028626.jpg,nv,mel,The lesion type in the image is melanoma.
+713,ISIC_0031263.jpg,bcc,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+714,ISIC_0024823.jpg,mel,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+715,ISIC_0028856.jpg,bkl,mel,The lesion type in the image is melanoma.
+716,ISIC_0025838.jpg,bkl,mel,The lesion type in the image is melanoma.
+717,ISIC_0030803.jpg,akiec,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+718,ISIC_0032354.jpg,nv,mel,The lesion type in the image is melanoma.
+719,ISIC_0030276.jpg,bkl,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+720,ISIC_0024656.jpg,nv,mel,The lesion type in the image is melanoma.
+721,ISIC_0027522.jpg,vasc,mel,The lesion type in the image is a melanoma.
+722,ISIC_0029167.jpg,nv,mel,The lesion type in the image is melanoma.
+723,ISIC_0033573.jpg,mel,mel,The lesion type in the image is melanoma.
+724,ISIC_0025894.jpg,nv,mel,The lesion type in the image is melanoma.
+725,ISIC_0028429.jpg,nv,mel,The lesion type in the image is melanoma.
+726,ISIC_0029616.jpg,nv,mel,The lesion type in the image is melanoma.
+727,ISIC_0033914.jpg,nv,mel,The lesion type in the image is melanoma.
+728,ISIC_0024552.jpg,mel,mel,The lesion type in the image is melanoma.
+729,ISIC_0027229.jpg,bcc,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+730,ISIC_0030057.jpg,nv,mel,The lesion type in the image is melanoma.
+731,ISIC_0026968.jpg,bcc,mel,The lesion type in the image is melanoma.
+732,ISIC_0028229.jpg,bkl,nv,The lesion type in the image is melanocytic.
+733,ISIC_0026445.jpg,nv,mel,The lesion type in the image is melanoma.
+734,ISIC_0029543.jpg,nv,mel,The lesion type in the image is melanoma.
+735,ISIC_0028239.jpg,nv,mel,The lesion type in the image is melanoma.
+736,ISIC_0028294.jpg,bkl,mel,The lesion type in the image is melanoma.
+737,ISIC_0032696.jpg,bcc,mel,The lesion type in the image is melanoma.
+738,ISIC_0029958.jpg,mel,mel,The lesion type in the image is melanoma.
+739,ISIC_0031915.jpg,mel,mel,The lesion type in the image is melanoma.
+740,ISIC_0032854.jpg,akiec,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+741,ISIC_0025128.jpg,mel,mel,The lesion type in the image is melanoma.
+742,ISIC_0024884.jpg,nv,mel,The lesion type in the image is melanoma.
+743,ISIC_0025858.jpg,nv,mel,The lesion type in the image is melanoma.
+744,ISIC_0026281.jpg,mel,mel,The lesion type in the image is melanoma.
+745,ISIC_0029901.jpg,nv,mel,The lesion type in the image is melanoma.
+746,ISIC_0029788.jpg,nv,mel,The lesion type in the image is melanoma.
+747,ISIC_0024592.jpg,bkl,mel,The lesion type in the image is melanoma.
+748,ISIC_0027263.jpg,mel,mel,The lesion type in the image is melanoma.
+749,ISIC_0030388.jpg,nv,mel,The lesion type in the image is melanoma.
+750,ISIC_0033558.jpg,nv,mel,The lesion type in the image is melanoma.
+751,ISIC_0032220.jpg,mel,mel,The lesion type in the image is melanoma.
+752,ISIC_0024370.jpg,vasc,mel,The lesion type in the image is a melanoma.
+753,ISIC_0024323.jpg,mel,mel,The lesion type in the image is melanoma.
+754,ISIC_0030088.jpg,bkl,mel,The lesion type in the image is melanoma.
+755,ISIC_0025815.jpg,nv,mel,The lesion type in the image is melanoma.
+756,ISIC_0026023.jpg,nv,mel,The lesion type in the image is melanoma.
+757,ISIC_0031165.jpg,nv,mel,The lesion type in the image is melanoma.
+758,ISIC_0026552.jpg,nv,mel,The lesion type in the image is melanoma.
+759,ISIC_0028748.jpg,nv,mel,The lesion type in the image is melanoma.
+760,ISIC_0026308.jpg,nv,mel,The lesion type in the image is melanoma.
+761,ISIC_0026784.jpg,nv,mel,The lesion type in the image is melanoma.
+762,ISIC_0024593.jpg,nv,mel,The lesion type in the image is melanoma.
+763,ISIC_0026844.jpg,bkl,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+764,ISIC_0026094.jpg,mel,mel,The lesion type in the image is melanoma.
+765,ISIC_0033135.jpg,vasc,mel,The lesion type in the image is a melanoma.
+766,ISIC_0029296.jpg,nv,mel,The lesion type in the image is melanoma.
+767,ISIC_0024450.jpg,akiec,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+768,ISIC_0029260.jpg,bkl,mel,The lesion type in the image is melanoma.
+769,ISIC_0029348.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+770,ISIC_0032560.jpg,nv,mel,The lesion type in the image is melanoma.
+771,ISIC_0025210.jpg,nv,mel,The lesion type in the image is melanoma.
+772,ISIC_0028512.jpg,mel,mel,The lesion type in the image is melanoma.
+773,ISIC_0026131.jpg,mel,mel,The lesion type in the image is melanoma.
+774,ISIC_0031200.jpg,bkl,mel,The lesion type in the image is melanoma.
+775,ISIC_0028272.jpg,nv,mel,The lesion type in the image is melanoma.
+776,ISIC_0028307.jpg,nv,mel,The lesion type in the image is melanoma.
+777,ISIC_0032664.jpg,nv,mel,The lesion type in the image is melanoma.
+778,ISIC_0027850.jpg,bkl,bcc,"The lesion type in the image is a bcc, which stands for basal cell carcinoma."
+779,ISIC_0030325.jpg,nv,mel,The lesion type in the image is melanoma.
+780,ISIC_0028884.jpg,nv,mel,The lesion type in the image is melanoma.
+781,ISIC_0033005.jpg,df,mel,The lesion type in the image is melanoma.
+782,ISIC_0030508.jpg,nv,mel,The lesion type in the image is melanoma.
+783,ISIC_0034267.jpg,nv,mel,The lesion type in the image is melanoma.
+784,ISIC_0025109.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+785,ISIC_0028551.jpg,nv,mel,The lesion type in the image is melanoma.
+786,ISIC_0031611.jpg,nv,mel,The lesion type in the image is melanoma.
+787,ISIC_0024345.jpg,bcc,mel,The lesion type in the image is melanoma.
+788,ISIC_0031722.jpg,nv,mel,The lesion type in the image is melanoma.
+789,ISIC_0028732.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+790,ISIC_0030977.jpg,nv,mel,The lesion type in the image is melanoma.
+791,ISIC_0034250.jpg,nv,mel,The lesion type in the image is melanoma.
+792,ISIC_0031887.jpg,nv,mel,The lesion type in the image is melanoma.
+793,ISIC_0029992.jpg,nv,mel,The lesion type in the image is melanoma.
+794,ISIC_0025342.jpg,nv,mel,The lesion type in the image is melanoma.
+795,ISIC_0030316.jpg,bkl,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+796,ISIC_0024361.jpg,nv,mel,The lesion type in the image is melanoma.
+797,ISIC_0028902.jpg,nv,mel,The lesion type in the image is melanoma.
+798,ISIC_0032149.jpg,mel,mel,The lesion type in the image is melanoma.
+799,ISIC_0027247.jpg,nv,mel,The lesion type in the image is melanoma.
+800,ISIC_0032475.jpg,nv,mel,The lesion type in the image is melanoma.
+801,ISIC_0033153.jpg,nv,mel,The lesion type in the image is melanoma.
+802,ISIC_0025868.jpg,nv,mel,The lesion type in the image is melanoma.
+803,ISIC_0032625.jpg,nv,mel,The lesion type in the image is melanoma.
+804,ISIC_0025393.jpg,nv,mel,The lesion type in the image is melanoma.
+805,ISIC_0026017.jpg,nv,nv,The lesion type in the image is melanocytic.
+806,ISIC_0025668.jpg,df,mel,The lesion type in the image is melanoma.
+807,ISIC_0031479.jpg,mel,mel,The lesion type in the image is melanoma.
+808,ISIC_0029311.jpg,bkl,mel,The lesion type in the image is melanoma.
+809,ISIC_0028749.jpg,bkl,mel,The lesion type in the image is melanoma.
+810,ISIC_0032068.jpg,nv,mel,The lesion type in the image is melanoma.
+811,ISIC_0032245.jpg,mel,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+812,ISIC_0034028.jpg,mel,mel,The lesion type in the image is melanoma.
+813,ISIC_0029850.jpg,nv,mel,The lesion type in the image is melanoma.
+814,ISIC_0027644.jpg,nv,mel,The lesion type in the image is melanoma.
+815,ISIC_0030775.jpg,nv,mel,The lesion type in the image is melanoma.
+816,ISIC_0030615.jpg,nv,mel,The lesion type in the image is melanoma.
+817,ISIC_0027008.jpg,df,mel,The lesion type in the image is melanoma.
+818,ISIC_0026250.jpg,nv,mel,The lesion type in the image is melanoma.
+819,ISIC_0031616.jpg,nv,mel,The lesion type in the image is melanoma.
+820,ISIC_0028365.jpg,nv,mel,The lesion type in the image is melanoma.
+821,ISIC_0030369.jpg,bkl,mel,The lesion type in the image is melanoma.
+822,ISIC_0033370.jpg,nv,mel,The lesion type in the image is melanoma.
+823,ISIC_0033764.jpg,nv,mel,The lesion type in the image is melanoma.
+824,ISIC_0033048.jpg,nv,mel,The lesion type in the image is melanoma.
+825,ISIC_0031907.jpg,nv,mel,The lesion type in the image is melanoma.
+826,ISIC_0026346.jpg,nv,mel,The lesion type in the image is melanoma.
+827,ISIC_0032477.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+828,ISIC_0024390.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+829,ISIC_0032681.jpg,bkl,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+830,ISIC_0025967.jpg,nv,mel,The lesion type in the image is melanoma.
+831,ISIC_0031164.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+832,ISIC_0026772.jpg,nv,mel,The lesion type in the image is melanoma.
+833,ISIC_0034247.jpg,nv,mel,The lesion type in the image is melanoma.
+834,ISIC_0029675.jpg,nv,mel,The lesion type in the image is melanoma.
+835,ISIC_0030044.jpg,nv,mel,The lesion type in the image is melanoma.
+836,ISIC_0032536.jpg,bcc,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+837,ISIC_0025259.jpg,nv,mel,The lesion type in the image is melanoma.
+838,ISIC_0028165.jpg,bkl,mel,The lesion type in the image is melanoma.
+839,ISIC_0033447.jpg,nv,mel,The lesion type in the image is melanoma.
+840,ISIC_0026451.jpg,nv,mel,The lesion type in the image is melanoma.
+841,ISIC_0030765.jpg,nv,mel,The lesion type in the image is melanoma.
+842,ISIC_0027934.jpg,nv,mel,The lesion type in the image is melanoma.
+843,ISIC_0028188.jpg,vasc,mel,The lesion type in the image is melanoma.
+844,ISIC_0031313.jpg,nv,mel,The lesion type in the image is a melanoma.
+845,ISIC_0024473.jpg,nv,mel,The lesion type in the image is melanoma.
+846,ISIC_0026783.jpg,bkl,mel,The lesion type in the image is melanoma.
+847,ISIC_0027605.jpg,nv,mel,The lesion type in the image is melanoma.
+848,ISIC_0026156.jpg,bcc,mel,The lesion type in the image is melanoma.
+849,ISIC_0024864.jpg,mel,mel,The lesion type in the image is melanoma.
+850,ISIC_0029606.jpg,mel,mel,The lesion type in the image is melanoma.
+851,ISIC_0029499.jpg,nv,mel,The lesion type in the image is melanoma.
+852,ISIC_0033188.jpg,nv,mel,The lesion type in the image is melanoma.
+853,ISIC_0024783.jpg,nv,mel,The lesion type in the image is melanoma.
+854,ISIC_0025306.jpg,nv,mel,The lesion type in the image is melanoma.
+855,ISIC_0030362.jpg,nv,mel,The lesion type in the image is melanoma.
+856,ISIC_0032283.jpg,bkl,mel,The lesion type in the image is melanoma.
+857,ISIC_0030021.jpg,df,mel,The lesion type in the image is melanoma.
+858,ISIC_0025538.jpg,nv,mel,The lesion type in the image is melanoma.
+859,ISIC_0026578.jpg,nv,mel,The lesion type in the image is melanoma.
+860,ISIC_0031759.jpg,vasc,mel,The lesion type in the image is a melanoma.
+861,ISIC_0027427.jpg,nv,mel,The lesion type in the image is melanoma.
+862,ISIC_0025277.jpg,mel,mel,The lesion type in the image is melanoma.
+863,ISIC_0029394.jpg,bkl,mel,The lesion type in the image is melanoma.
+864,ISIC_0027907.jpg,nv,mel,The lesion type in the image is melanoma.
+865,ISIC_0027459.jpg,nv,mel,The lesion type in the image is melanoma.
+866,ISIC_0031839.jpg,nv,mel,The lesion type in the image is melanoma.
+867,ISIC_0031058.jpg,nv,mel,The lesion type in the image is melanoma.
+868,ISIC_0028003.jpg,mel,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+869,ISIC_0032756.jpg,bkl,mel,The lesion type in the image is melanoma.
+870,ISIC_0025542.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+871,ISIC_0032118.jpg,nv,mel,The lesion type in the image is melanoma.
+872,ISIC_0027595.jpg,bcc,mel,The lesion type in the image is melanoma.
+873,ISIC_0033983.jpg,nv,mel,The lesion type in the image is melanoma.
+874,ISIC_0027349.jpg,nv,mel,The lesion type in the image is melanoma.
+875,ISIC_0031174.jpg,nv,mel,The lesion type in the image is melanoma.
+876,ISIC_0029160.jpg,nv,mel,The lesion type in the image is melanoma.
+877,ISIC_0028328.jpg,nv,mel,The lesion type in the image is melanoma.
+878,ISIC_0032630.jpg,mel,mel,The lesion type in the image is melanoma.
+879,ISIC_0028611.jpg,bkl,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+880,ISIC_0031792.jpg,nv,mel,The lesion type in the image is melanoma.
+881,ISIC_0034155.jpg,bcc,mel,The lesion type in the image is melanoma.
+882,ISIC_0029812.jpg,nv,mel,The lesion type in the image is melanoma.
+883,ISIC_0031754.jpg,nv,mel,The lesion type in the image is melanoma.
+884,ISIC_0026331.jpg,nv,mel,The lesion type in the image is melanoma.
+885,ISIC_0025437.jpg,nv,mel,The lesion type in the image is melanoma.
+886,ISIC_0028379.jpg,nv,mel,The lesion type in the image is melanoma.
+887,ISIC_0028532.jpg,nv,mel,The lesion type in the image is melanoma.
+888,ISIC_0030240.jpg,bkl,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+889,ISIC_0034138.jpg,nv,mel,The lesion type in the image is melanoma.
+890,ISIC_0025199.jpg,bkl,mel,The lesion type in the image is melanoma.
+891,ISIC_0029089.jpg,mel,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+892,ISIC_0029728.jpg,nv,mel,The lesion type in the image is melanoma.
+893,ISIC_0033468.jpg,bcc,mel,The lesion type in the image is melanoma.
+894,ISIC_0024603.jpg,nv,mel,The lesion type in the image is melanoma.
+895,ISIC_0030555.jpg,df,mel,The lesion type in the image is melanoma.
+896,ISIC_0027807.jpg,nv,mel,The lesion type in the image is melanoma.
+897,ISIC_0028618.jpg,nv,mel,The lesion type in the image is melanoma.
+898,ISIC_0025945.jpg,nv,mel,The lesion type in the image is melanoma.
+899,ISIC_0026181.jpg,nv,mel,The lesion type in the image is melanoma.
+900,ISIC_0032950.jpg,nv,mel,The lesion type in the image is melanoma.
+901,ISIC_0031573.jpg,nv,mel,The lesion type in the image is melanoma.
+902,ISIC_0033245.jpg,mel,mel,The lesion type in the image is melanoma.
+903,ISIC_0025948.jpg,akiec,mel,The lesion type in the image is melanoma.
+904,ISIC_0025786.jpg,nv,mel,The lesion type in the image is melanoma.
+905,ISIC_0026064.jpg,nv,mel,The lesion type in the image is melanoma.
+906,ISIC_0027539.jpg,nv,mel,The lesion type in the image is melanoma.
+907,ISIC_0031035.jpg,nv,mel,The lesion type in the image is melanoma.
+908,ISIC_0033011.jpg,nv,mel,The lesion type in the image is melanoma.
+909,ISIC_0032876.jpg,bkl,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+910,ISIC_0028766.jpg,nv,mel,The lesion type in the image is melanoma.
+911,ISIC_0029351.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+912,ISIC_0028756.jpg,nv,mel,The lesion type in the image is melanoma.
+913,ISIC_0025969.jpg,nv,mel,The lesion type in the image is melanoma.
+914,ISIC_0025260.jpg,bcc,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+915,ISIC_0028013.jpg,nv,mel,The lesion type in the image is melanoma.
+916,ISIC_0027001.jpg,nv,mel,The lesion type in the image is melanoma.
+917,ISIC_0029112.jpg,nv,mel,The lesion type in the image is melanoma.
+918,ISIC_0028600.jpg,nv,mel,The lesion type in the image is melanoma.
+919,ISIC_0032341.jpg,nv,mel,The lesion type in the image is melanoma.
+920,ISIC_0033107.jpg,nv,mel,The lesion type in the image is melanoma.
+921,ISIC_0031624.jpg,bkl,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+922,ISIC_0030659.jpg,bcc,mel,The lesion type in the image is melanoma.
+923,ISIC_0029787.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+924,ISIC_0029540.jpg,nv,mel,The lesion type in the image is melanoma.
+925,ISIC_0034275.jpg,mel,mel,The lesion type in the image is melanoma.
+926,ISIC_0031292.jpg,akiec,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+927,ISIC_0028864.jpg,nv,mel,The lesion type in the image is melanoma.
+928,ISIC_0032307.jpg,bcc,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+929,ISIC_0028011.jpg,nv,mel,The lesion type in the image is melanoma.
+930,ISIC_0024834.jpg,nv,mel,The lesion type in the image is melanoma.
+931,ISIC_0031020.jpg,nv,mel,The lesion type in the image is melanoma.
+932,ISIC_0024505.jpg,bkl,mel,The lesion type in the image is melanoma.
+933,ISIC_0026843.jpg,bkl,mel,The lesion type in the image is melanoma.
+934,ISIC_0030317.jpg,nv,mel,The lesion type in the image is melanoma.
+935,ISIC_0031613.jpg,nv,mel,The lesion type in the image is melanoma.
+936,ISIC_0033318.jpg,nv,mel,The lesion type in the image is melanoma.
+937,ISIC_0025529.jpg,bkl,mel,The lesion type in the image is melanoma.
+938,ISIC_0025473.jpg,nv,mel,The lesion type in the image is melanoma.
+939,ISIC_0031412.jpg,nv,nv,The lesion type in the image is a melanocytic lesion.
+940,ISIC_0034177.jpg,nv,mel,The lesion type in the image is melanoma.
+941,ISIC_0029434.jpg,mel,mel,The lesion type in the image is melanoma.
+942,ISIC_0026606.jpg,bkl,mel,The lesion type in the image is melanoma.
+943,ISIC_0030025.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+944,ISIC_0034096.jpg,nv,mel,The lesion type in the image is melanoma.
+945,ISIC_0030704.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+946,ISIC_0028051.jpg,mel,mel,The lesion type in the image is melanoma.
+947,ISIC_0027534.jpg,nv,mel,The lesion type in the image is melanoma.
+948,ISIC_0025271.jpg,nv,mel,The lesion type in the image is melanoma.
+949,ISIC_0028943.jpg,bkl,mel,The lesion type in the image is melanoma.
+950,ISIC_0026378.jpg,bkl,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+951,ISIC_0028091.jpg,nv,mel,The lesion type in the image is melanoma.
+952,ISIC_0024334.jpg,nv,mel,The lesion type in the image is melanoma.
+953,ISIC_0024846.jpg,nv,mel,The lesion type in the image is melanoma.
+954,ISIC_0025765.jpg,nv,mel,The lesion type in the image is melanoma.
+955,ISIC_0031012.jpg,akiec,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+956,ISIC_0029305.jpg,nv,mel,The lesion type in the image is melanoma.
+957,ISIC_0031490.jpg,nv,mel,The lesion type in the image is melanoma.
+958,ISIC_0026622.jpg,mel,mel,The lesion type in the image is melanoma.
+959,ISIC_0030071.jpg,nv,mel,The lesion type in the image is melanoma.
+960,ISIC_0032344.jpg,nv,mel,The lesion type in the image is melanoma.
+961,ISIC_0025254.jpg,nv,mel,The lesion type in the image is melanoma.
+962,ISIC_0027517.jpg,mel,mel,The lesion type in the image is melanoma.
+963,ISIC_0029329.jpg,bkl,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+964,ISIC_0031221.jpg,nv,mel,The lesion type in the image is melanoma.
+965,ISIC_0028904.jpg,nv,mel,The lesion type in the image is melanoma.
+966,ISIC_0033211.jpg,nv,mel,The lesion type in the image is melanoma.
+967,ISIC_0025609.jpg,nv,mel,The lesion type in the image is melanoma.
+968,ISIC_0029832.jpg,nv,mel,The lesion type in the image is melanoma.
+969,ISIC_0027374.jpg,bkl,mel,The lesion type in the image is melanoma.
+970,ISIC_0024663.jpg,nv,mel,The lesion type in the image is melanoma.
+971,ISIC_0027899.jpg,nv,mel,The lesion type in the image is melanoma.
+972,ISIC_0028796.jpg,nv,mel,The lesion type in the image is melanoma.
+973,ISIC_0029626.jpg,nv,mel,The lesion type in the image is melanoma.
+974,ISIC_0029598.jpg,akiec,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+975,ISIC_0024549.jpg,nv,mel,The lesion type in the image is melanoma.
+976,ISIC_0025661.jpg,bkl,mel,The lesion type in the image is melanoma.
+977,ISIC_0033776.jpg,bkl,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+978,ISIC_0033415.jpg,mel,mel,The lesion type in the image is melanoma.
+979,ISIC_0033886.jpg,mel,mel,The lesion type in the image is melanoma.
+980,ISIC_0030640.jpg,nv,mel,The lesion type in the image is melanoma.
+981,ISIC_0030095.jpg,bkl,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+982,ISIC_0029948.jpg,nv,mel,The lesion type in the image is melanoma.
+983,ISIC_0024810.jpg,nv,mel,The lesion type in the image is melanoma.
+984,ISIC_0030237.jpg,nv,mel,The lesion type in the image is melanoma.
+985,ISIC_0029064.jpg,nv,mel,The lesion type in the image is melanoma.
+986,ISIC_0027693.jpg,mel,mel,The lesion type in the image is melanoma.
+987,ISIC_0028042.jpg,nv,mel,The lesion type in the image is melanoma.
+988,ISIC_0029234.jpg,nv,mel,The lesion type in the image is melanoma.
+989,ISIC_0025311.jpg,nv,mel,The lesion type in the image is melanoma.
+990,ISIC_0030310.jpg,bkl,mel,The lesion type in the image is melanoma.
+991,ISIC_0033791.jpg,bkl,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+992,ISIC_0029219.jpg,nv,mel,The lesion type in the image is melanoma.
+993,ISIC_0029482.jpg,nv,mel,The lesion type in the image is melanoma.
+994,ISIC_0028312.jpg,nv,mel,The lesion type in the image is a melanoma.
+995,ISIC_0027509.jpg,bkl,mel,The lesion type in the image is melanoma.
+996,ISIC_0031362.jpg,bkl,mel,The lesion type in the image is melanoma.
+997,ISIC_0031783.jpg,bkl,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+998,ISIC_0028273.jpg,nv,mel,The lesion type in the image is melanoma.
+999,ISIC_0026278.jpg,nv,mel,The lesion type in the image is melanoma.
+1000,ISIC_0030473.jpg,nv,mel,The lesion type in the image is melanoma.
+1001,ISIC_0028957.jpg,nv,mel,The lesion type in the image is melanoma.
+1002,ISIC_0033165.jpg,nv,mel,The lesion type in the image is melanoma.
+1003,ISIC_0027228.jpg,nv,mel,The lesion type in the image is melanoma.
+1004,ISIC_0032520.jpg,nv,mel,The lesion type in the image is melanoma.
+1005,ISIC_0028285.jpg,mel,mel,The lesion type in the image is melanoma.
+1006,ISIC_0024912.jpg,nv,mel,The lesion type in the image is melanoma.
+1007,ISIC_0025634.jpg,nv,mel,The lesion type in the image is melanoma.
+1008,ISIC_0033790.jpg,df,mel,The lesion type in the image is melanoma.
+1009,ISIC_0026915.jpg,nv,mel,The lesion type in the image is melanoma.
+1010,ISIC_0026860.jpg,nv,mel,The lesion type in the image is melanoma.
+1011,ISIC_0026519.jpg,nv,mel,The lesion type in the image is melanoma.
+1012,ISIC_0033681.jpg,nv,mel,The lesion type in the image is melanoma.
+1013,ISIC_0028807.jpg,bcc,mel,The lesion type in the image is melanoma.
+1014,ISIC_0031580.jpg,bkl,mel,The lesion type in the image is melanoma.
+1015,ISIC_0028853.jpg,nv,mel,The lesion type in the image is melanoma.
+1016,ISIC_0029821.jpg,nv,mel,The lesion type in the image is melanoma.
+1017,ISIC_0026992.jpg,akiec,mel,The lesion type in the image is melanoma.
+1018,ISIC_0029295.jpg,nv,mel,The lesion type in the image is melanoma.
+1019,ISIC_0031775.jpg,nv,mel,The lesion type in the image is melanoma.
+1020,ISIC_0030729.jpg,nv,mel,The lesion type in the image is melanoma.
+1021,ISIC_0026961.jpg,bkl,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+1022,ISIC_0025027.jpg,nv,mel,The lesion type in the image is melanoma.
+1023,ISIC_0027204.jpg,mel,mel,The lesion type in the image is melanoma.
+1024,ISIC_0025231.jpg,nv,mel,The lesion type in the image is melanoma.
+1025,ISIC_0030889.jpg,nv,mel,The lesion type in the image is melanoma.
+1026,ISIC_0029316.jpg,mel,mel,The lesion type in the image is melanoma.
+1027,ISIC_0033969.jpg,vasc,mel,The lesion type in the image is melanoma.
+1028,ISIC_0026530.jpg,bkl,mel,The lesion type in the image is melanoma.
+1029,ISIC_0029843.jpg,mel,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+1030,ISIC_0025992.jpg,akiec,mel,The lesion type in the image is melanoma.
+1031,ISIC_0031003.jpg,nv,mel,The lesion type in the image is melanoma.
+1032,ISIC_0027390.jpg,nv,mel,The lesion type in the image is melanoma.
+1033,ISIC_0026909.jpg,mel,mel,The lesion type in the image is melanoma.
+1034,ISIC_0025246.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+1035,ISIC_0031829.jpg,nv,mel,The lesion type in the image is melanoma.
+1036,ISIC_0032815.jpg,nv,mel,The lesion type in the image is melanoma.
+1037,ISIC_0030824.jpg,mel,mel,The lesion type in the image is melanoma.
+1038,ISIC_0029426.jpg,nv,mel,The lesion type in the image is melanoma.
+1039,ISIC_0024560.jpg,nv,mel,The lesion type in the image is melanoma.
+1040,ISIC_0033628.jpg,nv,mel,The lesion type in the image is melanoma.
+1041,ISIC_0025375.jpg,nv,mel,The lesion type in the image is melanoma.
+1042,ISIC_0026368.jpg,nv,mel,The lesion type in the image is melanoma.
+1043,ISIC_0026141.jpg,nv,mel,The lesion type in the image is melanoma.
+1044,ISIC_0031283.jpg,nv,mel,The lesion type in the image is melanoma.
+1045,ISIC_0025580.jpg,nv,mel,The lesion type in the image is melanoma.
+1046,ISIC_0024502.jpg,nv,mel,The lesion type in the image is melanoma.
+1047,ISIC_0028660.jpg,nv,mel,The lesion type in the image is melanoma.
+1048,ISIC_0029162.jpg,nv,mel,The lesion type in the image is melanoma.
+1049,ISIC_0034015.jpg,bcc,mel,The lesion type in the image is melanoma.
+1050,ISIC_0026615.jpg,nv,mel,The lesion type in the image is melanoma.
+1051,ISIC_0024974.jpg,nv,mel,The lesion type in the image is melanoma.
+1052,ISIC_0025307.jpg,nv,mel,The lesion type in the image is melanoma.
+1053,ISIC_0025049.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+1054,ISIC_0029644.jpg,bcc,mel,The lesion type in the image is melanoma.
+1055,ISIC_0031347.jpg,nv,mel,The lesion type in the image is melanoma.
+1056,ISIC_0034305.jpg,nv,mel,The lesion type in the image is melanoma.
+1057,ISIC_0032658.jpg,nv,mel,The lesion type in the image is melanoma.
+1058,ISIC_0030108.jpg,nv,mel,The lesion type in the image is melanoma.
+1059,ISIC_0027201.jpg,nv,mel,The lesion type in the image is melanoma.
+1060,ISIC_0030747.jpg,mel,mel,The lesion type in the image is melanoma.
+1061,ISIC_0028726.jpg,nv,mel,The lesion type in the image is melanoma.
+1062,ISIC_0030715.jpg,nv,mel,The lesion type in the image is melanoma.
+1063,ISIC_0034087.jpg,mel,mel,The lesion type in the image is melanoma.
+1064,ISIC_0024380.jpg,nv,mel,The lesion type in the image is melanoma.
+1065,ISIC_0027277.jpg,mel,mel,The lesion type in the image is melanoma.
+1066,ISIC_0033661.jpg,nv,mel,The lesion type in the image is melanoma.
+1067,ISIC_0030460.jpg,nv,mel,The lesion type in the image is melanoma.
+1068,ISIC_0026079.jpg,nv,mel,The lesion type in the image is melanoma.
+1069,ISIC_0029067.jpg,akiec,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+1070,ISIC_0028247.jpg,nv,mel,The lesion type in the image is a melanoma.
+1071,ISIC_0026517.jpg,nv,mel,The lesion type in the image is melanoma.
+1072,ISIC_0027290.jpg,nv,mel,The lesion type in the image is melanoma.
+1073,ISIC_0030486.jpg,mel,mel,The lesion type in the image is melanoma.
+1074,ISIC_0028913.jpg,bkl,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+1075,ISIC_0024649.jpg,nv,mel,The lesion type in the image is melanoma.
+1076,ISIC_0026592.jpg,nv,mel,The lesion type in the image is melanoma.
+1077,ISIC_0029501.jpg,bcc,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+1078,ISIC_0024499.jpg,nv,mel,The lesion type in the image is melanoma.
+1079,ISIC_0028978.jpg,bcc,mel,The lesion type in the image is melanoma.
+1080,ISIC_0024768.jpg,nv,mel,The lesion type in the image is melanoma.
+1081,ISIC_0027178.jpg,akiec,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+1082,ISIC_0030694.jpg,nv,mel,The lesion type in the image is melanoma.
+1083,ISIC_0031410.jpg,mel,mel,The lesion type in the image is melanoma.
+1084,ISIC_0033888.jpg,nv,mel,The lesion type in the image is melanoma.
+1085,ISIC_0026405.jpg,nv,mel,The lesion type in the image is melanoma.
+1086,ISIC_0033481.jpg,nv,mel,The lesion type in the image is melanoma.
+1087,ISIC_0026253.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+1088,ISIC_0027938.jpg,nv,mel,The lesion type in the image is melanoma.
+1089,ISIC_0033901.jpg,mel,mel,The lesion type in the image is melanoma.
+1090,ISIC_0026016.jpg,bkl,mel,The lesion type in the image is melanoma.
+1091,ISIC_0027076.jpg,mel,mel,The lesion type in the image is melanoma.
+1092,ISIC_0029286.jpg,nv,mel,The lesion type in the image is melanoma.
+1093,ISIC_0024515.jpg,bcc,mel,The lesion type in the image is melanoma.
+1094,ISIC_0033014.jpg,nv,mel,The lesion type in the image is melanoma.
+1095,ISIC_0034229.jpg,nv,mel,The lesion type in the image is melanoma.
+1096,ISIC_0027063.jpg,mel,mel,The lesion type in the image is melanoma.
+1097,ISIC_0030584.jpg,nv,mel,The lesion type in the image is melanoma.
+1098,ISIC_0029510.jpg,nv,mel,The lesion type in the image is melanoma.
+1099,ISIC_0029507.jpg,nv,mel,The lesion type in the image is a melanoma.
+1100,ISIC_0033494.jpg,akiec,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+1101,ISIC_0029109.jpg,nv,mel,The lesion type in the image is a melanoma.
+1102,ISIC_0026628.jpg,nv,mel,The lesion type in the image is melanoma.
+1103,ISIC_0027920.jpg,bcc,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+1104,ISIC_0034302.jpg,nv,mel,The lesion type in the image is melanoma.
+1105,ISIC_0032013.jpg,bkl,mel,The lesion type in the image is melanoma.
+1106,ISIC_0028925.jpg,bkl,mel,The lesion type in the image is melanoma.
+1107,ISIC_0034072.jpg,nv,mel,The lesion type in the image is melanoma.
+1108,ISIC_0032785.jpg,nv,mel,The lesion type in the image is melanoma.
+1109,ISIC_0029902.jpg,nv,mel,The lesion type in the image is melanoma.
+1110,ISIC_0026323.jpg,nv,mel,The lesion type in the image is melanoma.
+1111,ISIC_0028455.jpg,nv,mel,The lesion type in the image is melanoma.
+1112,ISIC_0027537.jpg,nv,mel,The lesion type in the image is melanoma.
+1113,ISIC_0026505.jpg,nv,mel,The lesion type in the image is melanoma.
+1114,ISIC_0032070.jpg,mel,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+1115,ISIC_0024623.jpg,bkl,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+1116,ISIC_0027843.jpg,nv,mel,The lesion type in the image is melanoma.
+1117,ISIC_0033549.jpg,nv,mel,The lesion type in the image is melanoma.
+1118,ISIC_0033231.jpg,nv,mel,The lesion type in the image is melanoma.
+1119,ISIC_0029221.jpg,nv,mel,The lesion type in the image is melanoma.
+1120,ISIC_0028178.jpg,nv,mel,The lesion type in the image is melanoma.
+1121,ISIC_0032430.jpg,mel,mel,The lesion type in the image is melanoma.
+1122,ISIC_0032743.jpg,nv,mel,The lesion type in the image is melanoma.
+1123,ISIC_0029078.jpg,nv,mel,The lesion type in the image is melanoma.
+1124,ISIC_0028779.jpg,nv,mel,The lesion type in the image is melanoma.
+1125,ISIC_0033354.jpg,bcc,mel,The lesion type in the image is melanoma.
+1126,ISIC_0030721.jpg,bkl,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+1127,ISIC_0033155.jpg,nv,mel,The lesion type in the image is melanoma.
+1128,ISIC_0033670.jpg,mel,mel,The lesion type in the image is melanoma.
+1129,ISIC_0024595.jpg,bcc,mel,The lesion type in the image is melanoma.
+1130,ISIC_0026701.jpg,nv,mel,The lesion type in the image is melanoma.
+1131,ISIC_0031597.jpg,bcc,mel,The lesion type in the image is melanoma.
+1132,ISIC_0032518.jpg,nv,mel,The lesion type in the image is melanoma.
+1133,ISIC_0030909.jpg,nv,mel,The lesion type in the image is melanoma.
+1134,ISIC_0031586.jpg,mel,mel,The lesion type in the image is melanoma.
+1135,ISIC_0031899.jpg,nv,mel,The lesion type in the image is melanoma.
+1136,ISIC_0029339.jpg,nv,mel,The lesion type in the image is melanoma.
+1137,ISIC_0028581.jpg,nv,mel,The lesion type in the image is melanoma.
+1138,ISIC_0033377.jpg,mel,mel,The lesion type in the image is melanoma.
+1139,ISIC_0025589.jpg,mel,mel,The lesion type in the image is melanoma.
+1140,ISIC_0033881.jpg,mel,mel,The lesion type in the image is melanoma.
+1141,ISIC_0029355.jpg,nv,mel,The lesion type in the image is melanoma.
+1142,ISIC_0027370.jpg,bkl,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+1143,ISIC_0033465.jpg,bkl,mel,The lesion type in the image is melanoma.
+1144,ISIC_0030962.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+1145,ISIC_0031465.jpg,bkl,mel,The lesion type in the image is melanoma.
+1146,ISIC_0033392.jpg,mel,mel,The lesion type in the image is melanoma.
+1147,ISIC_0032867.jpg,vasc,mel,The lesion type in the image is melanoma.
+1148,ISIC_0026112.jpg,nv,mel,The lesion type in the image is melanoma.
+1149,ISIC_0027802.jpg,akiec,mel,The lesion type in the image is melanoma.
+1150,ISIC_0034217.jpg,nv,mel,The lesion type in the image is melanoma.
+1151,ISIC_0032460.jpg,bkl,mel,The lesion type in the image is a melanoma.
+1152,ISIC_0026365.jpg,bkl,mel,The lesion type in the image is melanoma.
+1153,ISIC_0034257.jpg,nv,mel,The lesion type in the image is melanoma.
+1154,ISIC_0029766.jpg,nv,mel,The lesion type in the image is melanoma.
+1155,ISIC_0030003.jpg,nv,mel,The lesion type in the image is melanoma.
+1156,ISIC_0025207.jpg,nv,mel,The lesion type in the image is melanoma.
+1157,ISIC_0031021.jpg,nv,mel,The lesion type in the image is melanoma.
+1158,ISIC_0032498.jpg,bkl,nv,The lesion type in the image is melanocytic.
+1159,ISIC_0025920.jpg,nv,mel,The lesion type in the image is melanoma.
+1160,ISIC_0026781.jpg,nv,mel,The lesion type in the image is melanoma.
+1161,ISIC_0030185.jpg,nv,mel,The lesion type in the image is melanoma.
+1162,ISIC_0030536.jpg,nv,mel,The lesion type in the image is melanoma.
+1163,ISIC_0025984.jpg,bkl,mel,The lesion type in the image is melanoma.
+1164,ISIC_0026111.jpg,nv,mel,The lesion type in the image is melanoma.
+1165,ISIC_0027460.jpg,nv,mel,The lesion type in the image is melanoma.
+1166,ISIC_0025391.jpg,mel,mel,The lesion type in the image is melanoma.
+1167,ISIC_0028805.jpg,nv,mel,The lesion type in the image is melanoma.
+1168,ISIC_0029781.jpg,akiec,mel,The lesion type in the image is melanoma.
+1169,ISIC_0031191.jpg,akiec,mel,The lesion type in the image is melanoma.
+1170,ISIC_0029942.jpg,nv,mel,The lesion type in the image is melanoma.
+1171,ISIC_0031050.jpg,bkl,nv,The lesion type in the image is melanocytic.
+1172,ISIC_0025596.jpg,vasc,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+1173,ISIC_0027592.jpg,nv,mel,The lesion type in the image is melanoma.
+1174,ISIC_0029282.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+1175,ISIC_0026819.jpg,nv,mel,The lesion type in the image is melanoma.
+1176,ISIC_0026730.jpg,nv,mel,The lesion type in the image is melanoma.
+1177,ISIC_0032279.jpg,nv,mel,The lesion type in the image is melanoma.
+1178,ISIC_0028116.jpg,nv,mel,The lesion type in the image is melanoma.
+1179,ISIC_0033372.jpg,bcc,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+1180,ISIC_0029583.jpg,nv,mel,The lesion type in the image is melanoma.
+1181,ISIC_0031384.jpg,bcc,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+1182,ISIC_0024686.jpg,nv,mel,The lesion type in the image is a melanoma.
+1183,ISIC_0030202.jpg,nv,mel,The lesion type in the image is melanoma.
+1184,ISIC_0030115.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+1185,ISIC_0024442.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+1186,ISIC_0028825.jpg,nv,mel,The lesion type in the image is melanoma.
+1187,ISIC_0031675.jpg,nv,mel,The lesion type in the image is melanoma.
+1188,ISIC_0033509.jpg,bkl,mel,The lesion type in the image is melanoma.
+1189,ISIC_0029017.jpg,mel,mel,The lesion type in the image is melanoma.
+1190,ISIC_0030723.jpg,bkl,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+1191,ISIC_0025366.jpg,bkl,mel,The lesion type in the image is melanoma.
+1192,ISIC_0027707.jpg,nv,mel,The lesion type in the image is melanoma.
+1193,ISIC_0032185.jpg,bcc,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+1194,ISIC_0030570.jpg,nv,mel,The lesion type in the image is melanoma.
+1195,ISIC_0029185.jpg,nv,mel,The lesion type in the image is melanoma.
+1196,ISIC_0025582.jpg,nv,mel,The lesion type in the image is melanoma.
+1197,ISIC_0029095.jpg,nv,mel,The lesion type in the image is melanoma.
+1198,ISIC_0026005.jpg,nv,mel,The lesion type in the image is melanoma.
+1199,ISIC_0028353.jpg,nv,mel,The lesion type in the image is melanoma.
+1200,ISIC_0031728.jpg,bcc,mel,The lesion type in the image is a melanoma.
+1201,ISIC_0032929.jpg,bkl,mel,The lesion type in the image is melanoma.
+1202,ISIC_0033913.jpg,bkl,mel,The lesion type in the image is melanoma.
+1203,ISIC_0025973.jpg,bkl,mel,The lesion type in the image is melanoma.
+1204,ISIC_0032468.jpg,df,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+1205,ISIC_0027025.jpg,bkl,mel,The lesion type in the image is melanoma.
+1206,ISIC_0034206.jpg,nv,mel,The lesion type in the image is melanoma.
+1207,ISIC_0029323.jpg,bcc,mel,The lesion type in the image is melanoma.
+1208,ISIC_0032644.jpg,nv,mel,The lesion type in the image is melanoma.
+1209,ISIC_0030395.jpg,nv,mel,The lesion type in the image is melanoma.
+1210,ISIC_0029325.jpg,nv,mel,The lesion type in the image is melanoma.
+1211,ISIC_0025496.jpg,nv,mel,The lesion type in the image is melanoma.
+1212,ISIC_0027064.jpg,bkl,mel,The lesion type in the image is melanoma.
+1213,ISIC_0029754.jpg,nv,mel,The lesion type in the image is melanoma.
+1214,ISIC_0032201.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+1215,ISIC_0026845.jpg,bcc,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+1216,ISIC_0026069.jpg,bkl,mel,The lesion type in the image is melanoma.
+1217,ISIC_0031445.jpg,nv,mel,The lesion type in the image is melanoma.
+1218,ISIC_0033737.jpg,nv,mel,The lesion type in the image is melanoma.
+1219,ISIC_0031927.jpg,akiec,mel,The lesion type in the image is melanoma.
+1220,ISIC_0025733.jpg,nv,mel,The lesion type in the image is melanoma.
+1221,ISIC_0033177.jpg,nv,mel,The lesion type in the image is melanoma.
+1222,ISIC_0030556.jpg,nv,mel,The lesion type in the image is melanoma.
+1223,ISIC_0030390.jpg,mel,mel,The lesion type in the image is melanoma.
+1224,ISIC_0030083.jpg,mel,mel,The lesion type in the image is melanoma.
+1225,ISIC_0027004.jpg,bcc,mel,The lesion type in the image is melanoma.
+1226,ISIC_0030610.jpg,nv,mel,The lesion type in the image is melanoma.
+1227,ISIC_0026711.jpg,nv,mel,The lesion type in the image is melanoma.
+1228,ISIC_0031739.jpg,nv,mel,The lesion type in the image is melanoma.
+1229,ISIC_0028591.jpg,nv,mel,The lesion type in the image is melanoma.
+1230,ISIC_0026454.jpg,nv,mel,The lesion type in the image is melanoma.
+1231,ISIC_0029207.jpg,nv,mel,The lesion type in the image is melanoma.
+1232,ISIC_0027911.jpg,nv,mel,The lesion type in the image is melanoma.
+1233,ISIC_0027003.jpg,nv,mel,The lesion type in the image is melanoma.
+1234,ISIC_0025159.jpg,nv,mel,The lesion type in the image is melanoma.
+1235,ISIC_0024335.jpg,nv,mel,The lesion type in the image is melanoma.
+1236,ISIC_0024328.jpg,nv,mel,The lesion type in the image is melanoma.
+1237,ISIC_0026822.jpg,nv,mel,The lesion type in the image is melanoma.
+1238,ISIC_0032510.jpg,nv,mel,The lesion type in the image is melanoma.
+1239,ISIC_0034303.jpg,bkl,nv,The lesion type in the image is a melanocytic lesion.
+1240,ISIC_0028595.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+1241,ISIC_0034134.jpg,mel,mel,The lesion type in the image is melanoma.
+1242,ISIC_0033584.jpg,nv,mel,The lesion type in the image is melanoma.
+1243,ISIC_0031862.jpg,nv,mel,The lesion type in the image is melanoma.
+1244,ISIC_0028893.jpg,nv,mel,The lesion type in the image is melanoma.
+1245,ISIC_0031043.jpg,akiec,mel,The lesion type in the image is melanoma.
+1246,ISIC_0025155.jpg,mel,mel,The lesion type in the image is melanoma.
+1247,ISIC_0028989.jpg,bcc,mel,The lesion type in the image is melanoma.
+1248,ISIC_0031074.jpg,nv,mel,The lesion type in the image is melanoma.
+1249,ISIC_0031881.jpg,nv,mel,The lesion type in the image is melanoma.
+1250,ISIC_0029068.jpg,bkl,nv,The lesion type in the image is a melanocytic lesion.
+1251,ISIC_0031006.jpg,nv,mel,The lesion type in the image is melanoma.
+1252,ISIC_0033249.jpg,nv,mel,The lesion type in the image is melanoma.
+1253,ISIC_0028875.jpg,nv,mel,The lesion type in the image is melanoma.
+1254,ISIC_0028750.jpg,bkl,mel,The lesion type in the image is melanoma.
+1255,ISIC_0030377.jpg,bkl,mel,The lesion type in the image is melanoma.
+1256,ISIC_0026363.jpg,nv,mel,The lesion type in the image is melanoma.
+1257,ISIC_0026455.jpg,nv,mel,The lesion type in the image is melanoma.
+1258,ISIC_0031635.jpg,nv,mel,The lesion type in the image is melanoma.
+1259,ISIC_0025671.jpg,nv,mel,The lesion type in the image is melanoma.
+1260,ISIC_0030232.jpg,nv,mel,The lesion type in the image is melanoma.
+1261,ISIC_0030525.jpg,nv,mel,The lesion type in the image is melanoma.
+1262,ISIC_0029380.jpg,nv,mel,The lesion type in the image is melanoma.
+1263,ISIC_0025907.jpg,nv,mel,The lesion type in the image is melanoma.
+1264,ISIC_0025687.jpg,nv,mel,The lesion type in the image is melanoma.
+1265,ISIC_0025283.jpg,nv,mel,The lesion type in the image is melanoma.
+1266,ISIC_0027872.jpg,mel,mel,The lesion type in the image is melanoma.
+1267,ISIC_0030437.jpg,nv,mel,The lesion type in the image is melanoma.
+1268,ISIC_0031044.jpg,akiec,mel,The lesion type in the image is melanoma.
+1269,ISIC_0031699.jpg,nv,nv,The lesion type in the image is a melanocytic lesion.
+1270,ISIC_0034002.jpg,mel,mel,The lesion type in the image is melanoma.
+1271,ISIC_0031530.jpg,nv,mel,The lesion type in the image is melanoma.
+1272,ISIC_0025266.jpg,bcc,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+1273,ISIC_0025052.jpg,nv,mel,The lesion type in the image is melanoma.
+1274,ISIC_0027485.jpg,nv,mel,The lesion type in the image is melanoma.
+1275,ISIC_0030746.jpg,bcc,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+1276,ISIC_0028325.jpg,mel,mel,The lesion type in the image is melanoma.
+1277,ISIC_0031735.jpg,df,mel,The lesion type in the image is melanoma.
+1278,ISIC_0025836.jpg,nv,mel,The lesion type in the image is melanoma.
+1279,ISIC_0030445.jpg,mel,mel,The lesion type in the image is melanoma.
+1280,ISIC_0033203.jpg,bcc,mel,The lesion type in the image is melanoma.
+1281,ISIC_0030364.jpg,nv,mel,The lesion type in the image is a melanoma.
+1282,ISIC_0033816.jpg,nv,mel,The lesion type in the image is melanoma.
+1283,ISIC_0027701.jpg,nv,mel,The lesion type in the image is melanoma.
+1284,ISIC_0024926.jpg,nv,mel,The lesion type in the image is melanoma.
+1285,ISIC_0027955.jpg,nv,mel,The lesion type in the image is a melanoma.
+1286,ISIC_0029736.jpg,nv,mel,The lesion type in the image is melanoma.
+1287,ISIC_0031478.jpg,nv,mel,The lesion type in the image is melanoma.
+1288,ISIC_0030421.jpg,nv,mel,The lesion type in the image is melanoma.
+1289,ISIC_0033262.jpg,bkl,mel,The lesion type in the image is melanoma.
+1290,ISIC_0029619.jpg,nv,mel,The lesion type in the image is melanoma.
+1291,ISIC_0029133.jpg,akiec,nv,The lesion type in the image is melanocytic.
+1292,ISIC_0030324.jpg,mel,mel,The lesion type in the image is melanoma.
+1293,ISIC_0029548.jpg,bkl,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+1294,ISIC_0024902.jpg,nv,mel,The lesion type in the image is melanoma.
+1295,ISIC_0027515.jpg,nv,vasc,The lesion type in the image is a vascular lesion.
+1296,ISIC_0025740.jpg,nv,mel,The lesion type in the image is melanoma.
+1297,ISIC_0028127.jpg,mel,mel,The lesion type in the image is melanoma.
+1298,ISIC_0032214.jpg,mel,mel,The lesion type in the image is melanoma.
+1299,ISIC_0032096.jpg,nv,mel,The lesion type in the image is melanoma.
+1300,ISIC_0033416.jpg,mel,mel,The lesion type in the image is melanoma.
+1301,ISIC_0032294.jpg,nv,mel,The lesion type in the image is melanoma.
+1302,ISIC_0030569.jpg,nv,mel,The lesion type in the image is melanoma.
+1303,ISIC_0032144.jpg,nv,mel,The lesion type in the image is melanoma.
+1304,ISIC_0027024.jpg,nv,mel,The lesion type in the image is melanoma.
+1305,ISIC_0027062.jpg,nv,mel,The lesion type in the image is melanoma.
+1306,ISIC_0030502.jpg,nv,mel,The lesion type in the image is melanoma.
+1307,ISIC_0025149.jpg,nv,mel,The lesion type in the image is melanoma.
+1308,ISIC_0033626.jpg,df,mel,The lesion type in the image is melanoma.
+1309,ISIC_0028829.jpg,nv,mel,The lesion type in the image is melanoma.
+1310,ISIC_0032958.jpg,mel,mel,The lesion type in the image is melanoma.
+1311,ISIC_0031936.jpg,nv,mel,The lesion type in the image is melanoma.
+1312,ISIC_0026297.jpg,nv,mel,The lesion type in the image is melanoma.
+1313,ISIC_0031974.jpg,nv,mel,The lesion type in the image is melanoma.
+1314,ISIC_0025500.jpg,mel,mel,The lesion type in the image is melanoma.
+1315,ISIC_0029905.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+1316,ISIC_0030425.jpg,nv,mel,The lesion type in the image is melanoma.
+1317,ISIC_0030472.jpg,nv,mel,The lesion type in the image is melanoma.
+1318,ISIC_0026054.jpg,nv,mel,The lesion type in the image is melanoma.
+1319,ISIC_0026393.jpg,vasc,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+1320,ISIC_0024541.jpg,nv,mel,The lesion type in the image is melanoma.
+1321,ISIC_0031005.jpg,mel,mel,The lesion type in the image is melanoma.
+1322,ISIC_0029271.jpg,mel,mel,The lesion type in the image is melanoma.
+1323,ISIC_0028492.jpg,nv,mel,The lesion type in the image is melanoma.
+1324,ISIC_0024907.jpg,nv,mel,The lesion type in the image is melanoma.
+1325,ISIC_0025403.jpg,nv,mel,The lesion type in the image is melanoma.
+1326,ISIC_0029268.jpg,akiec,mel,The lesion type in the image is melanoma.
+1327,ISIC_0029910.jpg,nv,mel,The lesion type in the image is melanoma.
+1328,ISIC_0025937.jpg,bkl,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+1329,ISIC_0032633.jpg,nv,mel,The lesion type in the image is melanoma.
+1330,ISIC_0027174.jpg,mel,mel,The lesion type in the image is melanoma.
+1331,ISIC_0029208.jpg,nv,mel,The lesion type in the image is melanoma.
+1332,ISIC_0030551.jpg,nv,mel,The lesion type in the image is melanoma.
+1333,ISIC_0026768.jpg,nv,mel,The lesion type in the image is melanoma.
+1334,ISIC_0028769.jpg,nv,mel,The lesion type in the image is melanoma.
+1335,ISIC_0027655.jpg,nv,mel,The lesion type in the image is melanoma.
+1336,ISIC_0030915.jpg,bcc,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+1337,ISIC_0031980.jpg,bkl,mel,The lesion type in the image is melanoma.
+1338,ISIC_0029289.jpg,bkl,mel,The lesion type in the image is melanoma.
+1339,ISIC_0030334.jpg,nv,mel,The lesion type in the image is melanoma.
+1340,ISIC_0031036.jpg,nv,mel,The lesion type in the image is melanoma.
+1341,ISIC_0028170.jpg,nv,mel,The lesion type in the image is melanoma.
+1342,ISIC_0032085.jpg,nv,mel,The lesion type in the image is melanoma.
+1343,ISIC_0024924.jpg,nv,mel,The lesion type in the image is melanoma.
+1344,ISIC_0029370.jpg,mel,mel,The lesion type in the image is melanoma.
+1345,ISIC_0026657.jpg,nv,mel,The lesion type in the image is melanoma.
+1346,ISIC_0026075.jpg,nv,mel,The lesion type in the image is melanoma.
+1347,ISIC_0024550.jpg,bcc,mel,The lesion type in the image is melanoma.
+1348,ISIC_0024856.jpg,nv,mel,The lesion type in the image is melanoma.
+1349,ISIC_0028860.jpg,mel,mel,The lesion type in the image is melanoma.
+1350,ISIC_0033114.jpg,mel,mel,The lesion type in the image is melanoma.
+1351,ISIC_0030298.jpg,nv,mel,The lesion type in the image is melanoma.
+1352,ISIC_0031595.jpg,nv,mel,The lesion type in the image is melanoma.
+1353,ISIC_0031962.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+1354,ISIC_0027676.jpg,nv,mel,The lesion type in the image is melanoma.
+1355,ISIC_0027717.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+1356,ISIC_0031875.jpg,nv,mel,The lesion type in the image is melanoma.
+1357,ISIC_0028217.jpg,nv,mel,The lesion type in the image is melanoma.
+1358,ISIC_0033814.jpg,mel,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+1359,ISIC_0031304.jpg,nv,mel,The lesion type in the image is melanoma.
+1360,ISIC_0028892.jpg,nv,mel,The lesion type in the image is melanoma.
+1361,ISIC_0029249.jpg,bkl,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+1362,ISIC_0024394.jpg,nv,mel,The lesion type in the image is melanoma.
+1363,ISIC_0029863.jpg,nv,mel,The lesion type in the image is melanoma.
+1364,ISIC_0032267.jpg,nv,mel,The lesion type in the image is melanoma.
+1365,ISIC_0033766.jpg,nv,mel,The lesion type in the image is melanoma.
+1366,ISIC_0031515.jpg,nv,mel,The lesion type in the image is melanoma.
+1367,ISIC_0028186.jpg,nv,mel,The lesion type in the image is melanoma.
+1368,ISIC_0031892.jpg,nv,mel,The lesion type in the image is melanoma.
+1369,ISIC_0029745.jpg,bcc,mel,The lesion type in the image is melanoma.
+1370,ISIC_0028896.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+1371,ISIC_0033161.jpg,nv,mel,The lesion type in the image is melanoma.
+1372,ISIC_0033031.jpg,vasc,mel,The lesion type in the image is melanoma.
+1373,ISIC_0031851.jpg,bkl,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+1374,ISIC_0030283.jpg,vasc,mel,The lesion type in the image is a melanoma.
+1375,ISIC_0032255.jpg,nv,mel,The lesion type in the image is melanoma.
+1376,ISIC_0026904.jpg,nv,mel,The lesion type in the image is melanoma.
+1377,ISIC_0031497.jpg,nv,mel,The lesion type in the image is melanoma.
+1378,ISIC_0025896.jpg,nv,mel,The lesion type in the image is melanoma.
+1379,ISIC_0028074.jpg,nv,mel,The lesion type in the image is melanoma.
+1380,ISIC_0032153.jpg,nv,mel,The lesion type in the image is melanoma.
+1381,ISIC_0026914.jpg,nv,mel,The lesion type in the image is melanoma.
+1382,ISIC_0024875.jpg,mel,bcc,"The lesion type in the image is a bcc, which stands for basal cell carcinoma."
+1383,ISIC_0030911.jpg,nv,mel,The lesion type in the image is melanoma.
+1384,ISIC_0027205.jpg,nv,mel,The lesion type in the image is melanoma.
+1385,ISIC_0026348.jpg,nv,mel,The lesion type in the image is melanoma.
+1386,ISIC_0025455.jpg,nv,mel,The lesion type in the image is melanoma.
+1387,ISIC_0029818.jpg,nv,mel,The lesion type in the image is melanoma.
+1388,ISIC_0027886.jpg,nv,mel,The lesion type in the image is melanoma.
+1389,ISIC_0030540.jpg,nv,mel,The lesion type in the image is melanoma.
+1390,ISIC_0029680.jpg,bcc,mel,The lesion type in the image is melanoma.
+1391,ISIC_0025990.jpg,nv,mel,The lesion type in the image is melanoma.
+1392,ISIC_0032311.jpg,nv,mel,The lesion type in the image is melanoma.
+1393,ISIC_0028489.jpg,mel,mel,The lesion type in the image is melanoma.
+1394,ISIC_0032131.jpg,nv,mel,The lesion type in the image is melanoma.
+1395,ISIC_0024921.jpg,nv,mel,The lesion type in the image is melanoma.
+1396,ISIC_0026310.jpg,nv,mel,The lesion type in the image is melanoma.
+1397,ISIC_0033944.jpg,nv,mel,The lesion type in the image is melanoma.
+1398,ISIC_0027964.jpg,mel,mel,The lesion type in the image is melanoma.
+1399,ISIC_0025718.jpg,bcc,mel,The lesion type in the image is a melanoma.
+1400,ISIC_0027933.jpg,nv,mel,The lesion type in the image is melanoma.
+1401,ISIC_0027452.jpg,akiec,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+1402,ISIC_0030282.jpg,nv,mel,The lesion type in the image is melanoma.
+1403,ISIC_0024772.jpg,bkl,mel,The lesion type in the image is melanoma.
+1404,ISIC_0030789.jpg,bkl,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+1405,ISIC_0024684.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+1406,ISIC_0027107.jpg,df,nv,The lesion type in the image is melanocytic.
+1407,ISIC_0031643.jpg,bcc,mel,The lesion type in the image is melanoma.
+1408,ISIC_0029555.jpg,bkl,mel,The lesion type in the image is melanoma.
+1409,ISIC_0026186.jpg,nv,mel,The lesion type in the image is a melanoma.
+1410,ISIC_0030571.jpg,nv,mel,The lesion type in the image is melanoma.
+1411,ISIC_0027109.jpg,nv,mel,The lesion type in the image is melanoma.
+1412,ISIC_0032926.jpg,nv,nv,The lesion type in the image is melanocytic.
+1413,ISIC_0029065.jpg,nv,mel,The lesion type in the image is melanoma.
+1414,ISIC_0033382.jpg,nv,mel,The lesion type in the image is melanoma.
+1415,ISIC_0031258.jpg,bcc,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+1416,ISIC_0025295.jpg,nv,mel,The lesion type in the image is melanoma.
+1417,ISIC_0032548.jpg,nv,mel,The lesion type in the image is melanoma.
+1418,ISIC_0025481.jpg,nv,mel,The lesion type in the image is melanoma.
+1419,ISIC_0028852.jpg,nv,mel,The lesion type in the image is melanoma.
+1420,ISIC_0032438.jpg,nv,mel,The lesion type in the image is melanoma.
+1421,ISIC_0031447.jpg,nv,mel,The lesion type in the image is melanoma.
+1422,ISIC_0034098.jpg,nv,mel,The lesion type in the image is melanoma.
+1423,ISIC_0032458.jpg,nv,mel,The lesion type in the image is melanoma.
+1424,ISIC_0032241.jpg,nv,mel,The lesion type in the image is melanoma.
+1425,ISIC_0031171.jpg,bcc,mel,The lesion type in the image is melanoma.
+1426,ISIC_0030413.jpg,nv,mel,The lesion type in the image is melanoma.
+1427,ISIC_0032802.jpg,nv,mel,The lesion type in the image is melanoma.
+1428,ISIC_0025040.jpg,bkl,mel,The lesion type in the image is melanoma.
+1429,ISIC_0027157.jpg,nv,mel,The lesion type in the image is melanoma.
+1430,ISIC_0032150.jpg,nv,mel,The lesion type in the image is melanoma.
+1431,ISIC_0025904.jpg,mel,mel,The lesion type in the image is melanoma.
+1432,ISIC_0030406.jpg,nv,mel,The lesion type in the image is melanoma.
+1433,ISIC_0027896.jpg,akiec,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+1434,ISIC_0027793.jpg,mel,mel,The lesion type in the image is melanoma.
+1435,ISIC_0033559.jpg,mel,mel,The lesion type in the image is melanoma.
+1436,ISIC_0033870.jpg,nv,mel,The lesion type in the image is melanoma.
+1437,ISIC_0029367.jpg,nv,mel,The lesion type in the image is melanoma.
+1438,ISIC_0030043.jpg,nv,mel,The lesion type in the image is melanoma.
+1439,ISIC_0032385.jpg,nv,mel,The lesion type in the image is melanoma.
+1440,ISIC_0025897.jpg,nv,mel,The lesion type in the image is melanoma.
+1441,ISIC_0033995.jpg,mel,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+1442,ISIC_0031246.jpg,nv,mel,The lesion type in the image is melanoma.
+1443,ISIC_0029343.jpg,mel,mel,The lesion type in the image is melanoma.
+1444,ISIC_0028894.jpg,nv,mel,The lesion type in the image is melanoma.
+1445,ISIC_0025819.jpg,bkl,mel,The lesion type in the image is melanoma.
+1446,ISIC_0033629.jpg,bkl,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+1447,ISIC_0025160.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+1448,ISIC_0026259.jpg,nv,mel,The lesion type in the image is melanoma.
+1449,ISIC_0024955.jpg,nv,mel,The lesion type in the image is melanoma.
+1450,ISIC_0030960.jpg,nv,mel,The lesion type in the image is melanoma.
+1451,ISIC_0028009.jpg,nv,mel,The lesion type in the image is melanoma.
+1452,ISIC_0034236.jpg,mel,mel,The lesion type in the image is melanoma.
+1453,ISIC_0026039.jpg,nv,mel,The lesion type in the image is melanoma.
+1454,ISIC_0032398.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+1455,ISIC_0029679.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+1456,ISIC_0026334.jpg,nv,mel,The lesion type in the image is melanoma.
+1457,ISIC_0029357.jpg,nv,mel,The lesion type in the image is melanoma.
+1458,ISIC_0031571.jpg,nv,mel,The lesion type in the image is melanoma.
+1459,ISIC_0027557.jpg,nv,mel,The lesion type in the image is melanoma.
+1460,ISIC_0033484.jpg,nv,mel,The lesion type in the image is melanoma.
+1461,ISIC_0025406.jpg,nv,mel,The lesion type in the image is melanoma.
+1462,ISIC_0027780.jpg,bkl,mel,The lesion type in the image is melanoma.
+1463,ISIC_0027217.jpg,nv,mel,The lesion type in the image is melanoma.
+1464,ISIC_0026053.jpg,nv,mel,The lesion type in the image is melanoma.
+1465,ISIC_0028699.jpg,nv,mel,The lesion type in the image is melanoma.
+1466,ISIC_0024602.jpg,bkl,mel,The lesion type in the image is melanoma.
+1467,ISIC_0025014.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+1468,ISIC_0032894.jpg,bcc,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+1469,ISIC_0028731.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+1470,ISIC_0033118.jpg,nv,mel,The lesion type in the image is melanoma.
+1471,ISIC_0032645.jpg,mel,mel,The lesion type in the image is melanoma.
+1472,ISIC_0027748.jpg,nv,mel,The lesion type in the image is melanoma.
+1473,ISIC_0030098.jpg,nv,mel,The lesion type in the image is melanoma.
+1474,ISIC_0026143.jpg,nv,mel,The lesion type in the image is melanoma.
+1475,ISIC_0025047.jpg,nv,mel,The lesion type in the image is melanoma.
+1476,ISIC_0024617.jpg,nv,mel,The lesion type in the image is melanoma.
+1477,ISIC_0030289.jpg,nv,mel,The lesion type in the image is melanoma.
+1478,ISIC_0033724.jpg,nv,mel,The lesion type in the image is melanoma.
+1479,ISIC_0033677.jpg,bkl,mel,The lesion type in the image is melanoma.
+1480,ISIC_0033587.jpg,bkl,mel,The lesion type in the image is melanoma.
+1481,ISIC_0026890.jpg,nv,mel,The lesion type in the image is melanoma.
+1482,ISIC_0026097.jpg,nv,mel,The lesion type in the image is melanoma.
+1483,ISIC_0026894.jpg,nv,mel,The lesion type in the image is melanoma.
+1484,ISIC_0032450.jpg,mel,mel,The lesion type in the image is melanoma.
+1485,ISIC_0029638.jpg,akiec,mel,The lesion type in the image is melanoma.
+1486,ISIC_0025849.jpg,nv,mel,The lesion type in the image is melanoma.
+1487,ISIC_0033742.jpg,nv,mel,The lesion type in the image is melanoma.
+1488,ISIC_0033298.jpg,nv,mel,The lesion type in the image is melanoma.
+1489,ISIC_0032098.jpg,mel,vasc,The lesion type in the image is a vascular lesion.
+1490,ISIC_0032338.jpg,nv,mel,The lesion type in the image is melanoma.
+1491,ISIC_0030841.jpg,nv,mel,The lesion type in the image is melanoma.
+1492,ISIC_0026420.jpg,mel,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+1493,ISIC_0025927.jpg,mel,mel,The lesion type in the image is melanoma.
+1494,ISIC_0032739.jpg,nv,mel,The lesion type in the image is melanoma.
+1495,ISIC_0029267.jpg,nv,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+1496,ISIC_0028243.jpg,nv,mel,The lesion type in the image is melanoma.
+1497,ISIC_0026565.jpg,nv,mel,The lesion type in the image is melanoma.
+1498,ISIC_0029181.jpg,nv,mel,The lesion type in the image is melanoma.
+1499,ISIC_0024497.jpg,nv,mel,The lesion type in the image is melanoma.
+1500,ISIC_0025209.jpg,bkl,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
+1501,ISIC_0032165.jpg,nv,mel,The lesion type in the image is melanoma.
+1502,ISIC_0024999.jpg,mel,bcc,"The lesion type in the image is bcc, which stands for basal cell carcinoma."
