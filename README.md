@@ -203,14 +203,3 @@ Confusion matrices are also generated from the CSV.
 * Liu, H., et al. (2023). *LLaVA: Large Language and Vision Assistant*.
 * Microsoft Research. *LLaVA-Med: Towards Large Multimodal Models for Medicine*.
 
-```
-
----
-
-👉 This version now **explicitly says**:  
-- Clone **LLaVA-Med** (mandatory).  
-- Optionally clone **LLaVA** (only if needed).  
-- Download **`liuhaotian/llava-med-v1.5-mistral-7b` checkpoint** from Hugging Face.  
-
-Do you also want me to include a **Quickstart** section that literally copies the exact commands you used during training and evaluation (with your dataset paths), so others can reproduce without guessing?
-```
